@@ -1,0 +1,1828 @@
+{
+  "classes": ["SYMPTOMS", "DIAGNOSIS", "DISEASE", "MEDICINE", "MED TIME"],
+  "annotations": [
+    [
+      " Patient: My 1 year old daughter has been congested for about 2 days no coughing. Today she was fine this morning other than the stuffy nose. Now she is just laying around, just wants held interested in absolutely nothing and she has projectile vomited 3 times. Pneumonia is going around I know numerous people that have it. Are those symptoms? Doctor: Thanks for your question on Healthcare Magic.I can understand your concern.Yes, possibility of pneumonia is more.Children don't show high grade fever sometimes.Vomiting can be seen in pneumonia. Chest congestion is classical symptom of pneumonia in children.So better to take her to pediatrician and get done clinical examination of respiratory system and chest x ray.She may need antibiotics and other supportive drugs.Hope I have solved your query. I will be happy to help you further. Wishing good health to your daughter. Thanks.  \r",
+      {
+        "entities": [
+          [129, 141, "SYMPTOMS"],
+          [262, 271, "DISEASE"],
+          [448, 457, "DISEASE"],
+          [503, 521, "SYMPTOMS"],
+          [537, 547, "DISEASE"],
+          [548, 564, "SYMPTOMS"],
+          [589, 598, "DISEASE"],
+          [653, 724, "DIAGNOSIS"],
+          [734, 777, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: I was diagnosed with a very large  pneumonia about a month ago in my left upper lobe, I have been on 3 different kinds of antibiotics.  I just received a phone call from my doctor with the results from my follow up chest xray and find out that the pneumonia has not gone away and is still about the same size.  What should be our next step?  She wants to put me on another type of anibiotic. Doctor: Thanks for your question on Healthcare Magic.I can understand your concern.You are having persistent lung opacity despite of antibiotic treatment.So possibility of these is very high. 1. Drug resistant infection2. MalignancySo better to first diagnose and then start appropriate treatment.Bronchoscopy and CT scan of thorax are advised in your case.Bronchoscopy will isolate the causative organism and guide about specific antibiotic therapy.CT scan will tell you if there is mass lesion present or not.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.  \r",
+      {
+        "entities": [
+          [16, 94, "DIAGNOSIS"],
+          [111, 144, "MEDICINE"],
+          [222, 235, "DIAGNOSIS"],
+          [258, 267, "MEDICINE"],
+          [689, 745, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I was diagnosed with pneumonia 5 days ago and went to urgent care. been on prescribed antibiotics and I completed the 5 day treatment today, (Levofloxacin) I have flight reservations to Michigan on Friday morning 4/28/2017. Will it be safe to fly. Please advise. your anticipated help will be appreciated. Doctor: Thanks for your question on Healthcare Magic.I can understand your concern.You have given oral antibiotic for pneumonia.This itself suggests that you are had walking pneumonia (no serious type).Levofloxacin is broad spectrum antibiotic and usually sufficient for walking pneumonia.So if you are don't have fever or coughing at present and feel good then you can definitely fly. No harm in it.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.  \r",
+      {
+        "entities": [
+          [16, 40, "DIAGNOSIS"],
+          [414, 448, "MEDICINE"],
+          [482, 517, "DISEASE"],
+          [517, 559, "MEDICINE"],
+          [587, 607, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Good day, My son, who is 4 yrs old, has been diagnosed with lobar pneumonia and is now hospitalised.  This is about his 6th or 7th infection.  He had a double aortic arch that led to the entrance of his right lung and his trachea and esophagus being squeezed. He is now diagnosed with asthma.  Can the pneumonia deplete his lung function over time? What, if anything, can I do to reduce the number of infections? Doctor: Thanks for your question on Healthcare Magic.I can understand your concern.Yes, recurrent lung infections can directly diminish lung functions.Recurrent infections can also cause asthma, bronchitis and further deteriorate lung functions.Best way to prevent respiratory tract infection is vaccines.Give him pneumococcal and influenza vaccines.These vaccines will provide 80% protection. Give him fruits, multivitamin tablets and protein powder for high immunity.Hope I have solved your query. I will be happy to help you further. Wishing good health to your son. Thanks.  \r",
+      {
+        "entities": [
+          [55, 85, "DIAGNOSIS"],
+          [162, 253, "DIAGNOSIS"],
+          [295, 302, "DISEASE"],
+          [521, 536, "DISEASE"],
+          [610, 616, "DISEASE"],
+          [618, 628, "DISEASE"],
+          [653, 672, "DISEASE"],
+          [737, 778, "MEDICINE"],
+          [822, 873, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Hi .. I have been diagnosed with Pnemonia and have not slept in 4 days because of the coughing .. i'm hurting everywhere, going sligtly insane and cannot get to sleep no matter how much i try .. as soon as i breath in, it hurts and a cough .. any suggestions ? Doctor: HiAfter spme days of the proper treatment you will feel better again. Don't worry it takes ssometime to recover. Dr.Jolanda  \r",
+      {
+        "entities": [
+          [43, 51, "DISEASE"],
+          [96, 104, "SYMPTOMS"],
+          [160, 176, "SYMPTOMS"],
+          [218, 249, "SYMPTOMS"],
+          [287, 320, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: hello doc.Im Gigi 51 yrs old previously i have ptb but the doctor told me that it was cured already 7 yrs ago every time i go to his clinic he told me i have a pneumonia after en x-ray result even though i told him that i spit w/ blood last monday i go to his clinic agin for a medical check up and he prescribed me cefuruxime kefstar i bought 9 pcs only and switch to another brand of cefuruxime Axetil after 4 days i spit mucus w/ blood as for now im suffering severe backpain what should i do thank you so much doc Doctor: Hello Gigi !Coughing up blood with sputum (henoptysis) is a red flag sign .. meaning to say it definitely needs Medical attention . Considering you have had TB in the past there are many possibilities for your present episodes of hemoptysis.  It could me a bacterial infection or relapse of TB or post TB bronchiectasis (abnormal permanent dilation of your airways at few places which happens when they get damaged due to your past TB). Take a course of antibiotic as prescribed by your physician ,Consult with your physician  and discuss about taking drugs like tranexemic acid which reduce the bleeding tendency , cough suppressants . while sleeping, Lie on the side which was previously affected by TB and be on complete bed rest . Once your hemoptysis gets controlled go for sputum examination to check for TB bacilli , chest x ray and if needed HRCT thorax (to pick up bronchiectasis which can sometimes be not evident on x ray). Since u mentioned severe back pain , vascular abnormalities concerning  the descending aorta (the major blood vessel carrying blood from the heart)needs to be also considered  Treatment is to be decided based on the cause for your hemoptysis.Do review with your physician and get the necessary investigations done.  \r",
+      {
+        "entities": [
+          [170, 179, "DISEASE"],
+          [326, 344, "MEDICINE"],
+          [396, 413, "MEDICINE"],
+          [429, 448, "SYMPTOMS"],
+          [463, 488, "SYMPTOMS"],
+          [548, 589, "SYMPTOMS"],
+          [693, 695, "DISEASE"],
+          [746, 777, "DIAGNOSIS"],
+          [793, 812, "DIAGNOSIS"],
+          [816, 829, "DIAGNOSIS"],
+          [833, 855, "DIAGNOSIS"],
+          [1034, 1061, "DIAGNOSIS"],
+          [1099, 1114, "MEDICINE"],
+          [1179, 1187, "DIAGNOSIS"],
+          [1281, 1291, "DISEASE"],
+          [1347, 1357, "DISEASE"],
+          [1360, 1397, "DIAGNOSIS"],
+          [1489, 1505, "SYMPTOMS"],
+          [1508, 1530, "SYMPTOMS"],
+          [1702, 1715, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: dear doctor my littel son 11 months when he was 2 months and 15 days he got chest infection pneumonia in the right lung and after 2 weeks of treatment in the hospital with antibiotic he discharged next day he was admitted again with new infected by pneumonia in the right lung and then doctor did some test a barium swallow and ph. the resulte GE reflux grade 4. he was with NGT and AR formula by NGT for 3 moths with zantac and Motinorm also with sitting position ,but all of those dosn t change any thing.after that when he was 5 months and 15 days he had an a laparoscopic fundoplication 5 ports, 360m degree wrap over 10fr ryles tube. he trying to vomit but he can t.I Observed every time when he trying to vomit like for 5 to 7 minutes and when he sneeze every time after trying vomit then he got back to normal after sneezing.. and he drinking now neocate formula based on free amino acid. also he is allergy with lots of food ,. Doctor: primarily he suffering reflux disease which causes repeated aspiration and pneumonia so correction of underlying pathology will resolve pneumonia and as for concern about antibiotic and treatment of pneumonia use of antibiotics for prolong period can cause development of resistant organisms  \r",
+      {
+        "entities": [
+          [86, 111, "DISEASE"],
+          [182, 192, "MEDICINE"],
+          [247, 286, "DISEASE"],
+          [312, 372, "DIAGNOSIS"],
+          [721, 726, "SYMPTOMS"],
+          [763, 769, "SYMPTOMS"],
+          [794, 799, "SYMPTOMS"],
+          [977, 991, "DISEASE"],
+          [1005, 1038, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Hi, my fiancé has got a case of pneumonia. She was admitted into Wellstar Douglas Hospital in Douglasville, Ga. last Tuesday. She was moved to ICU Saturday and they still can t seem to get it under control. I am very desperate and need a 2nd professional opinion. Doctor: Thanks for your question on Healthcare Magic. I can understand your concern. Best treatment of pneumonia is identification of causative pathogen and start appropriate antibiotics. So get done sputum culture and sensitivity report. Culture report will isolate the causative organism and sensitivity report will guide about effective antibiotic treatment. So consult pulmonologist and discuss all these. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.  \r",
+      {
+        "entities": [
+          [42, 52, "DISEASE"],
+          [377, 386, "DISEASE"],
+          [390, 461, "DIAGNOSIS"],
+          [474, 512, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: my cousin was admitted yesterday for pneumonia and a collasped lung which was diagnoised yesterday. they did surgery this morning by cleaning out and draining fluids. she is now heavily sadated with a tube in her right lung. what will it take for her to get well again? Doctor: It sound like your cousin has something called- Empyema. It is basically an abscess in the chest cavity. And the correct treatment for it is drainage - which was done appropriatley. But he should receive antibiotic treatment with coverage of both aerobic and anaerobic organisms. Usually specimens are send from the procedure to see which organisms grow and provide a more directed antibiotic coverage.  \r",
+      {
+        "entities": [
+          [47, 56, "DISEASE"],
+          [63, 77, "DIAGNOSIS"],
+          [336, 344, "DISEASE"],
+          [364, 392, "DISEASE"],
+          [492, 512, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: my mother was diagnosed with left basal pneumonia she is 74 yeas old and was discharged from hospital yesterday was given amoxicillin and clarithromycin but now she is being sick and has diarohhea she has had amoxicillin before which hasnt effected her this way will it be the other antibiotics also what is left basal pneumonia Doctor: Thanks for your question on Healthcare Magic. I can understand your concern. In my opinion, her diarrhoea is mostly due to amoxicillin. Amoxicillin can cause diarrhea on second exposure. So you should stop amoxicillin. There are options for oral antibiotics other than amoxicillin like cefixime, levofloxacin, moxifloxacin etc. And left basal pneumonia means lung infection in lower lobe of left lung. So antibiotics are the mainstay of treatment. Hope I have solved your query. I will be happy to help you further. Wishing good health to your mother.Thanks. \r",
+      {
+        "entities": [
+          [24, 59, "DIAGNOSIS"],
+          [132, 162, "MEDICINE"],
+          [197, 206, "DISEASE"],
+          [219, 230, "MEDICINE"],
+          [318, 338, "DISEASE"],
+          [470, 482, "MEDICINE"],
+          [483, 494, "MEDICINE"],
+          [505, 513, "DISEASE"],
+          [553, 565, "MEDICINE"],
+          [633, 641, "MEDICINE"],
+          [643, 655, "MEDICINE"],
+          [657, 669, "MEDICINE"],
+          [679, 748, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: my mom was diagnosed with bacterial pneumonia back in late december. After a round of antibiotics, she felt much better but the xray still showed pneumonia. A round of stronger antibiotics were then given to her. She went back for a follow up xray last week and the xray now shows the pneumonia is in both lungs. The strange thing is...she has NO symptoms. No coughing, no fever, nothing. Could it possibly be viral? or fluid? or cancer???? Btw she has never smoked in her life. Doctor: Thanks for your question on Healthcare Magic. I can understand your concern. Radiological resolution takes 2-3 weeks in pneumonia. So it is possible that patient of pneumonia is improved symptomatically but still show pneumonia on chest x ray. So in my opinion, you should should waiting for 2 weeks more. Get done repeat chest x ray after 2 weeks.If chest x ray is showing pneumonia then go for CT thorax and bronchoscopy to rule out lung cancer, Tuberculosis, Fungal pneumonia. If xun4 ray is improving then no need to worry. Hope I have solved your query. I will be happy to help you further. Wishing good health to your mother. Thanks. \r",
+      {
+        "entities": [
+          [36, 55, "DISEASE"],
+          [156, 166, "DISEASE"],
+          [187, 198, "MEDICINE"],
+          [253, 257, "DIAGNOSIS"],
+          [295, 322, "DISEASE"],
+          [367, 378, "SYMPTOMS"],
+          [380, 388, "SYMPTOMS"],
+          [617, 627, "DISEASE"],
+          [662, 671, "DISEASE"],
+          [715, 724, "DISEASE"],
+          [734, 740, "DIAGNOSIS"],
+          [819, 826, "DIAGNOSIS"],
+          [848, 859, "DIAGNOSIS"],
+          [871, 880, "DISEASE"],
+          [893, 902, "DIAGNOSIS"],
+          [907, 919, "DIAGNOSIS"],
+          [932, 943, "DISEASE"],
+          [945, 957, "DISEASE"],
+          [959, 976, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: I have been sick with a sinus infection and tonsillitis over the last week and a half. i am on antibiotics for these. Now I feel it in my chest. I am coughing non stop. My throat doesnt hurt much just from the coughing. My chest feels heavy and I have some issues with breathing. Could this be bronchitis or pneumonia ? Doctor: Thanks for your question on Healthcare Magic. I can understand your concern. Your symptoms are seen with both, bronchitis and pneumonia. And both of these them are common after upper respiratory tract infection (URTI - sinusitis). So better to consult pulmonologist and get done clinical examination of respiratory system, chest x ray and PFT (Pulmonary Function Test). Chest x ray is needed for the diagnosis of pneumonia. PFT is must for the diagnosis of bronchitis. Antibiotics are the mainstay of treatment for pneumonia. Inhaled bronchodilators and inhaled corticosteroid (ICS) are the mainstay of treatment for bronchitis. So first diagnose android then start appropriate treatment.. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks. Thanks for your question on Healthcare Magic. I can understand your concern. Radiological resolution takes 2-3 weeks in pneumonia. So it is possible that patient of pneumonia is improved symptomatically but still show pneumonia on chest x ray. So in my opinion, you should should waiting for 2 weeks more. Get done repeat chest x ray after 2 weeks.If chest x ray is showing pneumonia then go for CT thorax and bronchoscopy to rule out lung cancer, Tuberculosis, Fungal pneumonia. If xun4 ray is improving then no need to worry. Hope I have solved your query. I will be happy to help you further. Wishing good health to your mother. Thanks. \r",
+      {
+        "entities": [
+          [22, 49, "SYMPTOMS"],
+          [54, 65, "DISEASE"],
+          [105, 116, "MEDICINE"],
+          [160, 168, "SYMPTOMS"],
+          [182, 200, "SYMPTOMS"],
+          [220, 229, "SYMPTOMS"],
+          [233, 250, "SYMPTOMS"],
+          [267, 289, "SYMPTOMS"],
+          [304, 314, "DISEASE"],
+          [318, 327, "DISEASE"],
+          [449, 459, "DISEASE"],
+          [464, 474, "DISEASE"],
+          [515, 567, "DISEASE"],
+          [617, 659, "DIAGNOSIS"],
+          [661, 705, "DIAGNOSIS"],
+          [708, 761, "DIAGNOSIS"],
+          [762, 806, "DIAGNOSIS"],
+          [807, 818, "MEDICINE"],
+          [853, 863, "DISEASE"],
+          [864, 920, "MEDICINE"],
+          [1246, 1256, "DISEASE"],
+          [1291, 1300, "DISEASE"],
+          [1344, 1353, "DISEASE"],
+          [1357, 1369, "DIAGNOSIS"],
+          [1448, 1459, "DIAGNOSIS"],
+          [1477, 1488, "DIAGNOSIS"],
+          [1500, 1509, "DISEASE"],
+          [1522, 1531, "DIAGNOSIS"],
+          [1536, 1548, "DIAGNOSIS"],
+          [1561, 1572, "DISEASE"],
+          [1574, 1586, "DISEASE"],
+          [1588, 1605, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: I was recently diagnosed with Pneumonia. I had pneumonia when I was a baby but never since. I was shocked when I heard the diagnosis. The symptoms became apparent on March 28. I began taking Doxycycline Monohydrate on Monday April 3 and must take them for seven days. I am mega healthy and have not been sick in years. I can t even remember the last time I was sick. This has really knocked me out. I have zero energy and very little appetite. How does pneumonia manifest in the lung and how does bacteria get in there? How long will it be until I recover? I am really having a hard time with this. Help! Doctor: Respected user , HiThanks for using Healthcaremagic.comI have evaluated your query thoroughly .*  Mechanism of pneumonia follows as   -  Susceptible pathogens in form of bacteria enters the respiratory tract      via  nose or throat ( air borne ) , settles  there in respective lung tissues      through aleveoli and bronchi  -  start manifestations in form of various symptoms  of bronchitis ,      effusion or others .*  Treatment  guidelines   -  Maintain hydration with plenty of liquids .  -  Balanced nutritious  diet .  -  Regular antibiotics , anti inflammatory , decongestants as per advise      by your doctor .  -  Regular walking , exercises ( deep breathing ) , YOGA .  -  Avoid smoking , alcohol .  -  Have patience , recovery time depends upon the causative organism ,      host response factors and type of treatment ( it may take days to       weeks ) .Hope this clears your query .Welcome  for  any  further  assistance .Regards . \r",
+      {
+        "entities": [
+          [40, 50, "DISEASE"],
+          [57, 66, "DISEASE"],
+          [201, 224, "MEDICINE"],
+          [252, 277, "MED TIME"],
+          [463, 472, "DISEASE"],
+          [507, 515, "DISEASE"],
+          [734, 743, "DIAGNOSIS"],
+          [793, 1041, "DIAGNOSIS"],
+          [1073, 1114, "MEDICINE"],
+          [1121, 1146, "MEDICINE"],
+          [1153, 1172, "MEDICINE"],
+          [1175, 1192, "MEDICINE"],
+          [1195, 1208, "MEDICINE"],
+          [1249, 1264, "MEDICINE"],
+          [1267, 1293, "MEDICINE"],
+          [1298, 1302, "MEDICINE"],
+          [1309, 1334, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: my friend suffers from diagnosed bronchiectias and gets pneumonia constantly.  She is 72  Each time they give her antibotics for a week and then the xray will show the pneumonia gone, however, it contantly returns.  She has been to Mayo, Iowa City   had many test.  It's beginning to take a toll on her.  I would say she had pneumonia about 6 times last year and so far 2 or 3 this year.  Any suggestions Doctor: Thanks for your question on Healthcare Magic. I can understand your concern. Bronchiectesis is permanently damaged part of lung. So bacterial colonization is common in bronchiectesis. And this gives repeated pneumonia attacks. So best and permanent cure for this is surgical removal of bronchiectic part of lung. So consult Cardio thoracic surgeon and discuss about surgical removal. Another option is culture and sensitivity based treatment. Get done sputum culture and sensitivity report. Culture will identify the causative organism and sensitivity report will guide about effective antibiotic treatment. Hope I have solved your query. I will be happy to help you further. Wishing good health to your friend. Thanks. \r",
+      {
+        "entities": [
+          [43, 56, "DISEASE"],
+          [66, 75, "DISEASE"],
+          [124, 134, "MEDICINE"],
+          [159, 163, "DIAGNOSIS"],
+          [178, 187, "DISEASE"],
+          [335, 344, "DISEASE"],
+          [500, 514, "DISEASE"],
+          [555, 606, "DIAGNOSIS"],
+          [631, 649, "DIAGNOSIS"],
+          [689, 735, "DIAGNOSIS"],
+          [875, 913, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I have a pneumonia and have gone through 1 full round of a zpack and steroid. I m also using an inhaler, had to go back to dog on Thursday night because I was still not any better. They gave me a antibiotic shot and a 1/10day script for levaquin which I started about 10am Friday morning. I m still not feeling better. I now as of this morning have a sharp pain inbetween shoulder blades that comes and goes, my heart flutters sometimes and sometimes beats really fast, I also woke up to chest pain that would go from burning feeling to sharp pain for about 30 min consecutively, then stopped and has been on and off since then. My cough is so bad that when I cough it feels like my ribs/lower sides of my back/lung area are bruised/fractured and takes my breath away when I take deap breathes or bend my waiste. I noticed bout a 5 days ago that I would get really hot at random times. Ao thinking i was having a fever, I ve been keeping track daily of my bt as of about 3/4 days ago and it s seems to have steadily slowly dropped. It s ranging usually from 96-97 but sometimes it ll get to like 98.0 and thats while I m sweating so bad that s my shirt will be soaked and hair wet like I was standing outside in the sun for an hr in middle of summer. It s sick. Should I be worried? Doctor: Respected user , hi Thanks for using Healthcaremagic.comI have evaluated your query thoroughly .* All symptoms are in relation with underlying lung condition giving rise to   broncho alveolar constrictions , pleura irritation with systemic    manifestations* As there is not much relief of oral medications given till now , I strongly   recommend to get hospitalised treatment & early better recovery through   IV antibiotics , bronchodilators, supportive nursing care Hope this clears your queryWelcome for any further assistance Regards . \r",
+      {
+        "entities": [
+          [19, 28, "DISEASE"],
+          [69, 74, "MEDICINE"],
+          [79, 87, "MEDICINE"],
+          [106, 113, "MEDICINE"],
+          [206, 216, "MEDICINE"],
+          [228, 235, "MED TIME"],
+          [247, 255, "MEDICINE"],
+          [498, 508, "SYMPTOMS"],
+          [528, 543, "SYMPTOMS"],
+          [547, 557, "SYMPTOMS"],
+          [642, 647, "SYMPTOMS"],
+          [670, 675, "SYMPTOMS"],
+          [735, 752, "SYMPTOMS"],
+          [923, 928, "SYMPTOMS"],
+          [1131, 1139, "SYMPTOMS"],
+          [1476, 1506, "DISEASE"],
+          [1509, 1526, "DISEASE"],
+          [1693, 1769, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: my son is 3 years old, and came down with a head cold wed, it moved immediately to his chest (he is a preemie-grad, and has had trouble with pneumonia and rsv in past) he is running a temp, and his respiratory rate is between 48-50.  I just don't know if i should wait it out a little longer to see what the day brings or take him in. I hate feelling like i'm always there for the slightest things with him, but his history proves medical intervention always was the case. It just seems so quick that a lung issue would be evident, when he only started showing signs of a cold wednesday night. Doctor: Hello,Your son’s respiratory rate is too high. Please take him to ER immediately and take a chest x-ray immediately.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Siva Kumar Reddy \r",
+      {
+        "entities": [
+          [184, 198, "SYMPTOMS"],
+          [208, 242, "SYMPTOMS"],
+          [629, 658, "DIAGNOSIS"],
+          [704, 732, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I have had a Percocet addiction for 35 years and have had many Dr.s in that time span. I was up to without exaggeration, eating 240 10mg p s, 98 30mg oxycodone pills, as well as an assortment of 5mg pills which were always at my disposal. I have cancer and have severe back injuries but along with the p s I also had monthly access to 240 2mg xannax pills which after awhile Ihad no problem eating all of the above each month and would look for some more. I died 4 times in a 6 year span due to double pneumonia which the Dr.s told me my medications were playing a large roll in this. When I was 16 I became an atheist due to my brother dying, he was my favorite and I became very drug dependent to kill the pain. This lead to my later addictions and no matter what I tried I could not escape their grip.The last time I was in the hospital I said Lord I do not know if you are real but if you are I am begging you to open my heart again to you and I need your help or this will probably be it for me when I leave the hospital, I have had enough, and this is only the drug portion of my life I would not wish the things and amount of death I have had to witness on anyone. I am the last of all my friends left alive and I am 53years old. Over 40 friends have passed on, 2 of which I grew up with from the age of 5, others just would not listen. I lost 2 older brothers, 1 my 1st year in highschool the other 8 years later of an overdose. Needless to say ptsd, depression and other problems haunted me until I did as many drugs as possible to bury the pain, but demons only stay buried so long which I found out the hard way. tiny2882@comcat,net Doctor: Respected user, hi I evaluated whole long query in total details thoroughly .* Now only options left for you is holistic healing with herbs & other things.* Current respiratory details & status are not mentioned with symptoms to   figure out for the pneumonia, but for mental condition I can say that only   & only thing which can help you to any extent is   very deep meditation sessions on highly regular basis   2-3 hours of dedicated YOGA daily    which will give your inner soul & subcouncious mind the level of peace   you are lacking at present .Hope this helps you .Welcome for any further assistance .Thanks  for using Healthcaremagic.com & giving me an opportunity to assistWishing you a healthy life ahead .Regards dear take care. \r",
+      {
+        "entities": [
+          [23, 41, "DISEASE"],
+          [138, 175, "MEDICINE"],
+          [191, 214, "MEDICINE"],
+          [256, 262, "DISEASE"],
+          [272, 292, "DISEASE"],
+          [345, 365, "MEDICINE"],
+          [505, 521, "DISEASE"],
+          [1469, 1479, "DISEASE"],
+          [1912, 1921, "DISEASE"],
+          [1931, 1947, "DISEASE"],
+          [2026, 2050, "DIAGNOSIS"],
+          [2077, 2104, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: Hello, On Friday, I was diagnosed with pneumonia and the chest x-ray states Minimal linear subsegmental atelectasis in the left lower lobe. I have been taking an antibiotic since Friday. I am still feeling tired and drained. Is this to be expected with minimal linear subsegmental atelectasis in the left lower lobe? Doctor: Hey,Minimal linear atelectasis doesn't mean pneumonia of lung, but still if you are diagnosed as pneumonia then it's ok.And yes tiredness is expected for 4-5 days at least. \r",
+      {
+        "entities": [
+          [49, 58, "DISEASE"],
+          [67, 85, "DIAGNOSIS"],
+          [86, 149, "DISEASE"],
+          [172, 182, "MEDICINE"],
+          [208, 234, "SYMPTOMS"],
+          [263, 325, "DISEASE"],
+          [339, 365, "DISEASE"],
+          [379, 397, "DISEASE"],
+          [432, 441, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Hi my name is.Brent I was diagnosed with pneumonia Friday since I haven t been able to sleep due to vomiting and I m dizzy and the weirdest thang is if I touch a certain part of my neck or back I instantly feel sick if you can give me advice that would be great Doctor: Hey Brent,If you feeling low and drowsy with pneumonia then you must take appropriate antibiotics.If required might get admitted to get done i.v. treatment. \r",
+      {
+        "entities": [
+          [51, 60, "DISEASE"],
+          [110, 118, "SYMPTOMS"],
+          [127, 132, "SYMPTOMS"],
+          [216, 225, "SYMPTOMS"],
+          [297, 319, "SYMPTOMS"],
+          [325, 334, "DISEASE"],
+          [366, 380, "MEDICINE"],
+          [396, 435, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: my daughter was thought to have pneomonia back in sept.  after several courses of antibiotics and ct scans they found a spot on both lungs that was growing and the pet scan showed a spot on the brain.  lung biopsy was inconclusive.  Dr.s beginning thought before biopsy was bacterial infection.  Is it likely something like this would go to the brain Doctor: Respected user, hi it is unlikely to disseminate lung pathology to brain in your case.It may be existing condition in brain detected afterwards or occurrence with/ after the lung pathology.Hope this clears your query.Thanks for using Health care magic & giving me an opportunity to assist you.Regards dear take care. \r",
+      {
+        "entities": [
+          [42, 51, "DISEASE"],
+          [92, 103, "MEDICINE"],
+          [108, 116, "DIAGNOSIS"],
+          [130, 148, "DISEASE"],
+          [212, 223, "DISEASE"],
+          [273, 279, "DIAGNOSIS"],
+          [284, 304, "DISEASE"],
+          [418, 432, "DISEASE"],
+          [543, 562, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Good Afternoon, My mom is 68 and went to the hospital her left long is completely covered with namonia spelling sorry and is going into the right. She is full code and so off the oxygen is 23 pulse is 18 so they put her on a vintalator she has had a stroke, heart atack in the previous she has smoked for the longest i can remember what are her chance of pulling out of this? My sister is the POA and is keeping her on it, is it fare to her or what??? Please let me know. Worried Daughter Doctor: Respected user, hi I evalauted your query thoroughly.Sorry to hear about the issue.*Prognosis depends on many factors - age - associated comorbid conditions   like heart attack / cv stroke / kidney malfunctions / diabetes - immunity  - haemoglobin level - body response to treatment - competency of doctors  - efficacy of molecules used in treatment & much more list not possible to  narrate whole here.*Considering all your narrations, her prognosis is guarded, not that much  good as normal person suffering from pneumonia recovering in days. - She may take very long time for recovery & may not recover also ( I pray   to God that doesn`t happen ) after your long jugglery with all ventilator   period. - I can suggest to see the progress of the patient on ventilator for 5-7 days   discuss with the consultant in details regarding this & then decide to    continue the treatment or wean her off from ventilator for resting her   sole in peace. Hope this clears your query. Thanks for using Health care magic & keeping trust in our medical services Regards \r",
+      {
+        "entities": [
+          [96, 103, "DISEASE"],
+          [251, 257, "DISEASE"],
+          [259, 270, "DISEASE"],
+          [662, 674, "DISEASE"],
+          [677, 686, "DISEASE"],
+          [689, 708, "DISEASE"],
+          [711, 719, "DISEASE"],
+          [1258, 1281, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: Yes I had pneumonia and now have Costochondritis. I am just wondering if it will ever go away. I am active and miss my workouts. Every time I try to start working out it comes back. Will I ever be able to work out again? It has been since April when I had pneumonia and I still am dealing with this. YYYY@YYYY Doctor: Do you have diagnosed it correctly ? Go for HRCT CHEST , or Bronchoscopy for same. take i.v. antibiotics and then oral. complete course of antibiotics. For costochondritis apply analgesics ointment on it along with systemic anti inflammatory drugs. Get done diagnosis proper. You will definitely able to work again. \r",
+      {
+        "entities": [
+          [20, 29, "DISEASE"],
+          [43, 59, "DISEASE"],
+          [266, 275, "DISEASE"],
+          [372, 382, "DIAGNOSIS"],
+          [388, 400, "DIAGNOSIS"],
+          [421, 432, "MEDICINE"],
+          [437, 479, "MEDICINE"],
+          [484, 499, "DISEASE"],
+          [506, 525, "DIAGNOSIS"],
+          [543, 576, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: Hi, I have a friend who is a female, age 16 and has complaints of light-headedness, migraines, blurry vision, can t breathe in deep without coughing, complains of body aches, chills, and a fever. She is going to the ER tomorrow because they are unable to go today due to being snowed in. It sounds like pneumonia but not sure.Thank you for your help Doctor: HiYes it might be but not completely.To be sure she should consult her doctor for further follow up.Wishes Dr.Jolanda \r",
+      {
+        "entities": [
+          [76, 92, "SYMPTOMS"],
+          [94, 103, "SYMPTOMS"],
+          [105, 118, "SYMPTOMS"],
+          [120, 158, "SYMPTOMS"],
+          [160, 183, "SYMPTOMS"],
+          [185, 191, "SYMPTOMS"],
+          [199, 205, "SYMPTOMS"],
+          [313, 322, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: I recently got over either the flu or pnemonia. I've noticed my feces are increasingly yellow or whitish. I had quit smoking thrity days ago and have been on the nicotine gum and now the lozenges. I don't feel bad, but this is unusual. Could the nicotine products be contributing to the discoloration? Thank you. Doctor: HiIf a patient have pneumonia he should have cough with or without sputum,probably chest pain and breathlessness,anorexia,fever.But the signs and symptoms varies from patient to patient.Take careDr.jolanda \r",
+      {
+        "entities": [
+          [41, 44, "DISEASE"],
+          [48, 57, "DISEASE"],
+          [74, 115, "SYMPTOMS"],
+          [172, 184, "MEDICINE"],
+          [197, 206, "MEDICINE"],
+          [256, 264, "MEDICINE"],
+          [297, 310, "SYMPTOMS"],
+          [351, 360, "DISEASE"],
+          [376, 381, "SYMPTOMS"],
+          [405, 424, "SYMPTOMS"],
+          [429, 443, "SYMPTOMS"],
+          [444, 452, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: My fiancé has been coughing uncontrollably every night for the past 4 months. He is 23 years old, 5'9\", about 140 lbs., and has been told by his dr that he has walking pneumonia. He has been prescribed antibiotics, cough syrup, allergy medicine, mucinex, nasal sprays, and inhalers and although they suppress the coughing at times he still does not seem to have gotten rid of the coughing. His coughing is accompanied with phlegm and has also caused him to throw up due to the extremity. He does smoke cigars as well. What is this!? Doctor: Walking pneumonia is a non-medical term to describe a mild case of pneumonia. It is usually called atypical pneumonia because the disease is different from more serious cases of pneumonia caused by typical bacteria. it is often the result of a lung infection from a bacterial microorganism called Mycoplasma pneumoniae and generally treated with antibiotics. Mild infections are often not treated because they tend to clear on their own. With treatment, most people begin to feel better within a few days.  \r",
+      {
+        "entities": [
+          [29, 37, "SYMPTOMS"],
+          [170, 188, "DISEASE"],
+          [201, 223, "MEDICINE"],
+          [225, 236, "MEDICINE"],
+          [238, 254, "MEDICINE"],
+          [256, 263, "MEDICINE"],
+          [265, 277, "MEDICINE"],
+          [283, 291, "MEDICINE"],
+          [310, 331, "DIAGNOSIS"],
+          [390, 399, "SYMPTOMS"],
+          [404, 439, "DISEASE"],
+          [551, 568, "DISEASE"],
+          [618, 628, "DISEASE"],
+          [650, 668, "DISEASE"],
+          [729, 738, "DISEASE"],
+          [783, 869, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: Went to the doctor 3 weeks ago for possible exercise induced asthma due to chest pain. They have me a daily steriod inhaler and albuterol rescue inhaler. The did an xray as well and a few days later I found out I had pneumonia. I did a zpack for 5 days and now levaquin 500mg twice daily on day 7 or 10. Just last night I went to urgent they said I still have the pneumonia got a steroid injection and a medrol dose pack. Still getting worse...not sure what to do and the chest pain seems worse, and the levaquin has made my stomach very irritated which is expected. The steroids make sleeping impossible and I constantly feel overheated since the injections and dose pack I started yesterday. Doctor: Hi and welcome in HCMAccording to the history this might be  a situation called *Nonresponding Pneumonia*It would be better to be hospitalized for further examinations like:CRPHemogramALT,ASTChest CT (if needed)ABGFor exploring better the situation and do the treatment in i/v route .If you have comorbidites they should be evaluated too.Sometimes when the other comorbidities are not well treated the pneumonia does not respond so well from the treatment.So please discuss with your doctor for the aboveRegardsDr.Jolanda  \r",
+      {
+        "entities": [
+          [63, 77, "DISEASE"],
+          [85, 96, "SYMPTOMS"],
+          [118, 133, "MEDICINE"],
+          [138, 163, "MEDICINE"],
+          [175, 179, "DIAGNOSIS"],
+          [227, 237, "DISEASE"],
+          [246, 251, "MEDICINE"],
+          [256, 262, "MED TIME"],
+          [271, 285, "MEDICINE"],
+          [286, 313, "MED TIME"],
+          [374, 383, "DISEASE"],
+          [390, 407, "MEDICINE"],
+          [414, 431, "MEDICINE"],
+          [482, 492, "SYMPTOMS"],
+          [514, 522, "MEDICINE"],
+          [535, 557, "SYMPTOMS"],
+          [581, 589, "MEDICINE"],
+          [595, 614, "SYMPTOMS"],
+          [792, 819, "DISEASE"],
+          [885, 899, "DIAGNOSIS"],
+          [900, 911, "DIAGNOSIS"],
+          [923, 929, "DIAGNOSIS"],
+          [1008, 1020, "DISEASE"],
+          [1114, 1123, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Patient: I went to the doctor today and found out that I have pneumonia. I got a steroid injection and breathing treatment in the office and was sent home with levaquin, albuterol, and cough medicine. My forearms and legs are very tingly and almost numb and heavy feeling. Is this from the steroid injection? I am 23 years old and I have juvenile rheumatoid arthritis so I am also taking humira, methotrexate, plaquenil, and folic acid for the RA. Is this a side effect or a drug reaction or nothing to be concerned about? Doctor: Tingling in extremities may be a sign of peripheral neuropathy, wich is most of the cases caused by inflammatory injury to the nerves. Anti-TNF drugs, such as Humira, have been reported to be associated to this kind of injury, that can be potentialized when associated to steroids. You should visit your attending rheumathologist for physical evaluation and apropriate management. \r",
+      {
+        "entities": [
+          [72, 82, "DISEASE"],
+          [91, 108, "MEDICINE"],
+          [113, 132, "DIAGNOSIS"],
+          [170, 178, "MEDICINE"],
+          [180, 189, "MEDICINE"],
+          [195, 210, "MEDICINE"],
+          [214, 247, "SYMPTOMS"],
+          [259, 282, "SYMPTOMS"],
+          [398, 404, "MEDICINE"],
+          [406, 418, "MEDICINE"],
+          [420, 429, "MEDICINE"],
+          [435, 457, "MEDICINE"],
+          [582, 603, "DISEASE"],
+          [641, 675, "DISEASE"],
+          [676, 690, "MEDICINE"],
+          [700, 706, "MEDICINE"],
+          [813, 822, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: My father is in the hospital on ventilator currently.  The doctor says he now has what is considered whiteout in his lungs.  He has said that the outline of the heart can no longer be seen.  My father aspirated and then was diagnosed with pneumonia.  Three days later he ended up in ccu on a ventilator and has not been able to be weened off/  He is currently taking 3 antibiotics.  What is your advise. Doctor: Lung whiteout and loss of heart outline are findings of chest x-ray compatible with many abnormal conditions affecting the lungs, like pneumonia, pleural effusion, acute respiratory distress syndrome among others. In the actual setting, your father is already receiving treatment to his pneumonia. All the other possibilities are probably been considerated and adressed by CCU staff. Weaning from mechanical ventilation is sometimes challenging because many factors can impair patients evolution, like how long he's been in MV, his nutrition status, his cardiovascular performance and resolution of the cause that led him to MV in the first place. \r",
+      {
+        "entities": [
+          [111, 133, "SYMPTOMS"],
+          [156, 199, "SYMPTOMS"],
+          [249, 259, "DISEASE"],
+          [379, 391, "MEDICINE"],
+          [422, 435, "SYMPTOMS"],
+          [440, 461, "SYMPTOMS"],
+          [478, 489, "DIAGNOSIS"],
+          [557, 566, "DISEASE"],
+          [568, 584, "DISEASE"],
+          [586, 621, "DISEASE"],
+          [709, 719, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: My husband, age 63 is feeling cool on his abdomen and back while the rest of him is warm...currently sleeping. Last week was diagnosed with pneumonia...had a period last week when he was so cold, couldn t get warm so we went to the hospital. He says he is feeling fine and feels OK to work everyday (does construction work outside on a normal basis). Should I be concerned tonight that part of him feels cool even when under covera for an hour or two Thanks so much Doctor: Hello and thank you for asking in HCM I can understand your concern Don't worry so much. Your husband is under treatment for pneumonia according to the history and he has had fever several times.Now he feels better but he is not completely asymptomatic which means that the feeling he had might be due to an episode of temperature not so high .This shows that the treatment is doing well. But he has to be careful with the treatment to be correct as the doctor has prescribed ,no smoking and not to work in dust environment ,a lot of liquids too.Take careWish a fast recovery for your husband. Dr. Jolanda Pulmonologist \r",
+      {
+        "entities": [
+          [32, 98, "SYMPTOMS"],
+          [150, 159, "DISEASE"],
+          [200, 204, "SYMPTOMS"],
+          [408, 418, "SYMPTOMS"],
+          [609, 618, "DISEASE"],
+          [713, 736, "DIAGNOSIS"],
+          [961, 971, "MEDICINE"],
+          [976, 1007, "MEDICINE"],
+          [1011, 1025, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Should I be tested for COVID-19? I have a cough and phlegm on my chest as well as headaches. I always get colds and flu that affect my chest Doctor: In brief:   It depends.   It depends of your country and the state of coronavirus, in some places you need to have traveled recently to another country to get the test, and in another countrys you need to be tested right away after any symptoms.   You should check your country  phase of coronavirus  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [22, 28, "DIAGNOSIS"],
+          [33, 41, "DISEASE"],
+          [52, 57, "SYMPTOMS"],
+          [62, 80, "SYMPTOMS"],
+          [92, 102, "SYMPTOMS"],
+          [116, 121, "SYMPTOMS"],
+          [126, 150, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I am a little concerned that I may be showing some symptoms for Coronavirus. I have had a bit of a dry cough about 2 weeks ago for 3 days. A week later I had a headache and got nauseaus. I never get headaches. My chest has felt unusual for 5 days. Doctor: Current symptoms? You may have experienced Coronavirus infection. Please stay at home until well and without any signs of illness. Drink fluids, rest and monitor your temperature. . \r",
+      {
+        "entities": [
+          [74, 86, "DISEASE"],
+          [109, 118, "SYMPTOMS"],
+          [170, 178, "SYMPTOMS"],
+          [187, 196, "SYMPTOMS"],
+          [209, 219, "SYMPTOMS"],
+          [223, 245, "SYMPTOMS"],
+          [309, 331, "DISEASE"],
+          [397, 409, "MEDICINE"],
+          [411, 415, "MEDICINE"],
+          [420, 445, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I have type 1 diabetes and to put it simply, I am living in an anxious state right now, worrying constantly about the coronavirus. My wife is a practice nurse in a GP surgery, and I worry constantly about the risk for us both. I am so scared. Doctor: Take all precautions. Take all precautions possible to try to avoid catching Coronavirus. Wash your hands often with soap & water, avoid touching your eyes, nose & mouth, stay home as much as possible, cover your mouth & nose with tissue if you sneeze or cough, clean & disinfect  frequently touched surfaces often & if you have fever, cough and difficulty breathing seek medical care. \r",
+      {
+        "entities": [
+          [22, 32, "DISEASE"],
+          [128, 140, "DISEASE"],
+          [174, 184, "DIAGNOSIS"],
+          [266, 282, "DIAGNOSIS"],
+          [283, 303, "DIAGNOSIS"],
+          [338, 350, "DISEASE"],
+          [351, 390, "MEDICINE"],
+          [392, 430, "MEDICINE"],
+          [432, 461, "MEDICINE"],
+          [463, 528, "MEDICINE"],
+          [590, 595, "SYMPTOMS"],
+          [597, 602, "SYMPTOMS"],
+          [607, 627, "SYMPTOMS"],
+          [628, 645, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: Dry scratchy throat, very mild cough since 23 March but not improving. Traveled to Cape Town via Lanseria and CT Airports 15-20 March. Wife has sore throat, nasal congestion, lethargy & headaches since 21 March. Should we see a doctor to be assessed? Doctor: In brief:   Stay home.   Stay home for at least 7 days, rest, drink fluids and monitor your temperature.   There is an overlap between flu and COVID-19 symptoms. Nasal congestion and absence of fever are not typically associated with COVID.  Would you like to video or text chat with me?          Take all precautions. Take all precautions possible to try to avoid catching Coronavirus. Wash your hands often with soap & water, avoid touching your eyes, nose & mouth, stay home as much as possible, cover your mouth & nose with tissue if you sneeze or cough, clean & disinfect  frequently touched surfaces often & if you have fever, cough and difficulty breathing seek medical care. \r",
+      {
+        "entities": [
+          [10, 29, "SYMPTOMS"],
+          [31, 46, "SYMPTOMS"],
+          [154, 165, "SYMPTOMS"],
+          [167, 183, "SYMPTOMS"],
+          [185, 193, "SYMPTOMS"],
+          [196, 205, "SYMPTOMS"],
+          [281, 291, "DIAGNOSIS"],
+          [294, 323, "DIAGNOSIS"],
+          [325, 329, "DIAGNOSIS"],
+          [331, 343, "DIAGNOSIS"],
+          [348, 373, "DIAGNOSIS"],
+          [404, 407, "SYMPTOMS"],
+          [412, 420, "DISEASE"],
+          [431, 447, "SYMPTOMS"],
+          [452, 468, "SYMPTOMS"],
+          [503, 509, "DISEASE"],
+          [656, 695, "MEDICINE"],
+          [697, 735, "MEDICINE"],
+          [737, 766, "MEDICINE"],
+          [768, 817, "MEDICINE"],
+          [821, 826, "SYMPTOMS"],
+          [828, 880, "MEDICINE"],
+          [895, 900, "SYMPTOMS"],
+          [902, 907, "SYMPTOMS"],
+          [912, 932, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      " Patient: Where do genital warts come from? My partner has visible ones, however I don’t. I’m female. Could they be there internally ? What are the origins of this virus? Doctor: In brief:   HPV virus   Human papiloma virus.   You wont necessarily have them but you could have the virus. When last did you have a papsmear. THey can pick it up on that. Once we are out of lockdown get a papsmear.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [19, 32, "DISEASE"],
+          [191, 224, "DISEASE"],
+          [281, 287, "DISEASE"],
+          [313, 322, "MEDICINE"],
+          [386, 395, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Blocked nose,coughing,aore throat,sometimes fever.Sometimes body aches. Doctor: In brief:   Telephonic consult?   Could well be another respiratory virus, I would stay home for now.   Use this platform to consult either virtually or ask more questions. Use home medicine - decongestant and pain medication. STay away from any anti-inflammatories if possible. Keep up warm fluids.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [10, 22, "SYMPTOMS"],
+          [23, 31, "SYMPTOMS"],
+          [32, 43, "SYMPTOMS"],
+          [44, 81, "SYMPTOMS"],
+          [146, 163, "DIAGNOSIS"],
+          [267, 316, "MEDICINE"],
+          [317, 355, "MEDICINE"],
+          [369, 389, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: I have had a sore throat for a few days, Tuesday Night it felt like tonsils, Yesterday it started becoming scratchy and today I have started coughing and spitting mucus. I do not have a fever, But I get light headed here and there, could it be Covid? Doctor: Test for Covid-19. On this times better to be sure you don’t become contagious and spread the virus, try to get tested for Covid-19. \r",
+      {
+        "entities": [
+          [23, 38, "SYMPTOMS"],
+          [78, 85, "SYMPTOMS"],
+          [108, 125, "SYMPTOMS"],
+          [151, 159, "SYMPTOMS"],
+          [164, 179, "SYMPTOMS"],
+          [182, 201, "SYMPTOMS"],
+          [213, 240, "SYMPTOMS"],
+          [254, 259, "DISEASE"],
+          [269, 287, "DIAGNOSIS"],
+          [363, 368, "DISEASE"],
+          [381, 400, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I have had a sore throat for a few days, Tuesday Night it felt like tonsils, Yesterday it started becoming scratchy and today I have started coughing and spitting mucus. I do not have a fever, But i get light headed here and there, could it be Covid-? Doctor: In brief:   Very unlikely   It sounds more like a viral cold.   covid does not present this way. treat the symptoms,consult GP if worse or if sputum changes color.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [23, 34, "SYMPTOMS"],
+          [78, 85, "SYMPTOMS"],
+          [108, 125, "SYMPTOMS"],
+          [151, 159, "SYMPTOMS"],
+          [164, 179, "SYMPTOMS"],
+          [182, 201, "SYMPTOMS"],
+          [213, 240, "SYMPTOMS"],
+          [254, 260, "DISEASE"],
+          [320, 331, "DIAGNOSIS"],
+          [334, 339, "DISEASE"],
+          [386, 396, "DIAGNOSIS"],
+          [409, 433, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      " Patient: On and off fever, sore body? Doctor: Probable flu. This definitely sounds like Influenza is starting.( Unless you have any obvious reason to suspect COVID-19,Malaria,Tick Bite Fever or Glandular Fever).Rest,Vitamin C and a suitable over the counter painkiller. I would advise avoiding Ibuprofen and other Non-Steroidal Anti-Inflammatory medication. In brief:   Very unlikely   It sounds more like a viral cold.   covid does not present this way. treat the symptoms,consult GP if worse or if sputum changes color.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [10, 26, "SYMPTOMS"],
+          [28, 38, "SYMPTOMS"],
+          [47, 60, "DIAGNOSIS"],
+          [89, 98, "DISEASE"],
+          [159, 167, "DISEASE"],
+          [168, 175, "DISEASE"],
+          [176, 191, "DISEASE"],
+          [195, 210, "DISEASE"],
+          [211, 270, "MEDICINE"],
+          [286, 358, "MEDICINE"],
+          [409, 420, "DISEASE"],
+          [423, 428, "DISEASE"],
+          [475, 522, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " My hba1c is not as good as it should be. Am I more likely to die of the virus? I’m so scared. I have type 1 diabetes. Please help. Doctor: Diabetes + Covid-19. Have you been diagnosed as a Diabetic, or just someone with slightly elevated A1C? Reports are that diabetics, especially males, are at greater risk. Follow all precautions that have been posted all over the internet and have been printed in newspapers. If you have a sore throat and a fever, call your General Physician and follow his/her directions completely. \r",
+      {
+        "entities": [
+          [4, 24, "SYMPTOMS"],
+          [107, 118, "DISEASE"],
+          [140, 160, "DIAGNOSIS"],
+          [190, 198, "DISEASE"],
+          [230, 242, "SYMPTOMS"],
+          [261, 270, "DISEASE"],
+          [429, 440, "SYMPTOMS"],
+          [447, 452, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I have a sore throat, a slight cough as well as slightly dry eyes. I may have been in contact with individuals with COVID-19 but unknowingly? Doctor: More detail. Do you have a temperature ?Have you traveled internationally or locally?Do you have a fever ?It is seeming to be becoming necessary to be more vigilant about COVID-19.I suggest you make an appointment to see a Doctor. \r",
+      {
+        "entities": [
+          [19, 30, "SYMPTOMS"],
+          [34, 49, "SYMPTOMS"],
+          [58, 76, "SYMPTOMS"],
+          [126, 134, "DISEASE"],
+          [187, 198, "SYMPTOMS"],
+          [259, 264, "SYMPTOMS"],
+          [331, 341, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: I have very mild symptoms of covid 19. Headache, sore throat, fatigue. What do I do now? Is it advised to rather stay home, or go to get tested? Doctor: Watch and wait. With very mild symptoms you do not need to be tested.Your temperature is important. if your symptoms worsen or a fever develops or you start coughing and shortness of breath you need to seek help. stay home and treat the symptoms with paracetamol. \r",
+      { "entities": [] }
+    ],
+    [
+      " Patient: I have a flu that is getting worse and I have returned from the UK at the end of Feb and I have been in direct contact with British and Brazilian tourists in SA since then. Should I get tested for covid-19 or just remain home with my family? Doctor: In brief:   Overseas and Covid   Yes,direct contact with anyone from Europe and travel history must get tested.  There are drive in facilities in Johannesburg.Check the net for testing places in CT  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [207, 215, "DISEASE"],
+          [285, 290, "DISEASE"],
+          [297, 371, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I've been sick for the last two weeks with severe sinus pain, hot flashes and a very tight chest along with coughing up some mucus. I've been treated with antibiotics however it doesn't feel like it has worked. Is it possible that this can be Covid-1? Doctor: Hard to say. Is the mucous coloured or clear? Try to access health advice as you are. Stay home. It could be covid but if you are fairly asymptomatic stay home and keep asking questions on this platform. It is safer for you and others. Treat symptomatically for now. And keep asking on here. \r",
+      {
+        "entities": [
+          [53, 70, "SYMPTOMS"],
+          [72, 83, "SYMPTOMS"],
+          [90, 106, "SYMPTOMS"],
+          [118, 141, "SYMPTOMS"],
+          [152, 176, "DIAGNOSIS"],
+          [253, 260, "DISEASE"],
+          [290, 305, "SYMPTOMS"],
+          [356, 369, "MEDICINE"],
+          [379, 384, "DISEASE"],
+          [506, 527, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: Hi  My throat is sore, and very scratchy, I have also have a cough to accompany this, well the cough started about a week ago, I have no fever. Just want to know if this is anyway related to covid 19  My voice is also very hoarse? Doctor: In brief:   Unlikely   It could be, however going out right now is dangerous to you and others.   If you don't have it yet going out risks getting it. If you have it you can spread it. Try to access a thorough consult on the phone or virtually. Keep chatting we are here for you.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [17, 31, "SYMPTOMS"],
+          [37, 50, "SYMPTOMS"],
+          [71, 76, "SYMPTOMS"],
+          [105, 110, "SYMPTOMS"],
+          [201, 209, "DISEASE"],
+          [214, 239, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      " Patient: Hi, I have a bad cough, sinus congestion and body aches but no fever. Should I consult with a doctor regarding the current covid19 pandemic? Doctor: In brief:   Most likely not c   Most likely sinusitis or seasonal allergy.   Try to access a telelphonic or virtual consult to discuss thoroughly with someone. For now stay home stay safe. Treat yourself and all in your family as if they have covid for now =it's safer.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [23, 32, "SYMPTOMS"],
+          [34, 50, "SYMPTOMS"],
+          [55, 65, "SYMPTOMS"],
+          [70, 79, "SYMPTOMS"],
+          [133, 140, "DISEASE"],
+          [203, 212, "DISEASE"],
+          [216, 233, "DIAGNOSIS"],
+          [327, 347, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: My son is not feeling well. He has a very snotty nose, sore throat, occasional flemmy cough, uneasy stomach. He had a headache last night. No fever.  Is it a common cold or must he be checked for Covid 19. Not travelled or been in contact with anyone? Doctor: In brief:   No not now   GEt telephonic consult via this or other forums.   Not indicated to be tested right now. Use medication you have at home to treat symptoms right now. Use this forum if symptoms change.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [20, 37, "SYMPTOMS"],
+          [52, 63, "SYMPTOMS"],
+          [65, 76, "SYMPTOMS"],
+          [78, 101, "SYMPTOMS"],
+          [103, 118, "SYMPTOMS"],
+          [128, 136, "SYMPTOMS"],
+          [149, 158, "SYMPTOMS"],
+          [168, 179, "DISEASE"],
+          [206, 215, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Good morning I have sore throat for 2 days now, this morning I woke up and my throat was a lot better just a little scratchy. My other symptoms this morning were stuffy nose and a bit on the sore side with my body? Doctor: \r",
+      {
+        "entities": [
+          [30, 41, "SYMPTOMS"],
+          [126, 135, "SYMPTOMS"],
+          [172, 183, "SYMPTOMS"],
+          [201, 210, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I am a 46 year old female. I've had Trach for the last 9 months due to stridor, bronchospasm and larageal spasms. I am currently being worked up for autoimmune disease. I am on Xoliar am I more susceptible to coronavirus? Doctor: Yes. VEry very important for you to stay in quarantine and not go and shop. Also make sure anything that comes into your house is sanitized. EVery single thing. Sanitize. KEep 2 m away from everyone and wear a buff or home made mask that covers your nose and mouth. Be safe. Be positive. We will get through this. \r",
+      {
+        "entities": [
+          [46, 51, "DISEASE"],
+          [81, 88, "MEDICINE"],
+          [90, 102, "MEDICINE"],
+          [107, 123, "MEDICINE"],
+          [159, 178, "DISEASE"],
+          [276, 294, "DIAGNOSIS"],
+          [361, 380, "DIAGNOSIS"],
+          [401, 410, "DIAGNOSIS"],
+          [411, 438, "DIAGNOSIS"],
+          [443, 472, "DIAGNOSIS"],
+          [478, 505, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I was severely sick with a cough back in mid February before I knew about the current virus. Not sure if I had a fever or not. I'd cough so hard and vomit. I smoke. Could I still have coronavirus antibodies? Doctor: Infectious for 3w. If you had corona virus you are infectious for 3 weeks. So you need to stay 2 m away from loved ones. Stay home. Get someone else to shop for you. Stay home. Wear a buff over your nose and mouth. Do not touch your face, mouth or nose. Wash hands for 20 seconds every 20 min. \r",
+      {
+        "entities": [
+          [16, 29, "SYMPTOMS"],
+          [37, 47, "SYMPTOMS"],
+          [123, 128, "SYMPTOMS"],
+          [141, 146, "SYMPTOMS"],
+          [159, 165, "SYMPTOMS"],
+          [226, 236, "DIAGNOSIS"],
+          [256, 268, "DIAGNOSIS"],
+          [316, 329, "DIAGNOSIS"],
+          [403, 429, "DIAGNOSIS"],
+          [441, 463, "DIAGNOSIS"],
+          [480, 505, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: Hi! So I’m a 20 year old female. I started working out about a year ago. I noticed some lower abdominal pain after partaking in abdominal workouts. But also notice it around the time of my period. It’s right next to/under my hip bone on left side. Doctor: In brief:   This could well be very normal.   One can get pain on day 14 during ovulation and before and during the period. Use panado for this and once we are through this corona virus you can use anti-inflammatories.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [98, 118, "SYMPTOMS"],
+          [324, 389, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I take irbesartan (angiotensin receptor blocker) for uncomplicated hypertension. It increases cell expression of angiotensin receptors (AR’s). COVID enters cells via AR’s. Should I change my blood pressure meds? Thanks Doctor: In brief:   Contact Dr    Rather get hold of your regular GP and discuss over the telephone regarding this issue.   DO NOT STOP OR DO THIS ON YOUR OWN.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [17, 27, "MEDICINE"],
+          [77, 90, "DISEASE"],
+          [153, 158, "DISEASE"],
+          [201, 220, "DISEASE"],
+          [270, 297, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I have type 1 diabetes that I try hard to control, but I struggle with. Are my chances high for poor outcomes with the virus? I’m in such a panic about it. Doctor: Depends-all factors. Type I diabetics can be more fragile when they have any type of infection unfortunately. If you are younger & do not smoke & do not have other chronic problems, your increased risk may be minimal.  Eating balanced diet, keeping glucose controlled, getting adequate exercise (including fresh air outdoors), & adequate sleep all should help protect you from severe consequences, but be very careful ! . \r",
+      {
+        "entities": [
+          [24, 32, "DISEASE"],
+          [129, 134, "DISEASE"],
+          [202, 211, "DISEASE"],
+          [393, 413, "DIAGNOSIS"],
+          [415, 441, "DIAGNOSIS"],
+          [443, 468, "DIAGNOSIS"],
+          [503, 517, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: Itchy ears, painful ears pain in roof of mouth only at night. Post nasal drip. I’ve sneezed a few times and sometimes my nose runs in the morning what could this be? Also sometimes I cough but not a lot. Any idea? Covid 19? Doctor: In brief:   Probably not Covid.   May be allergic, bacterial sinus infection, a different virus, a narrow upper jaw with partial airway obstruction, or other causes.   Call your General Physician and check if they want to see you. See your Dentist to evaluate if your upper jaw is too narrow and if you need to see an Orthodontist.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [10, 20, "SYMPTOMS"],
+          [22, 34, "SYMPTOMS"],
+          [35, 56, "SYMPTOMS"],
+          [72, 88, "SYMPTOMS"],
+          [131, 140, "SYMPTOMS"],
+          [224, 232, "DISEASE"],
+          [267, 273, "DISEASE"],
+          [276, 291, "DISEASE"],
+          [293, 318, "DISEASE"],
+          [341, 389, "DIAGNOSIS"],
+          [482, 533, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: My hba1c isn’t within target, but I try so hard. Does that mean that I am likely to end up in hospital, or die, from coronavirus? Doctor: In brief:   Not necessarily   You need to consult an endocrinologist for advice about diet, weight control, and medication for controlling A1c.    It is not feasible to provide more useful suggestions without talking to you, performing physical examination and may be some test.Wish you good health!  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [13, 18, "DISEASE"],
+          [127, 138, "DISEASE"],
+          [190, 238, "DIAGNOSIS"],
+          [240, 254, "DIAGNOSIS"],
+          [260, 291, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I'm quite sure that I have Covid-19. My mother is a health worker that has been exposed. Among my symptoms is trouble breathing and pain in the chest. Can I sleep and see how I feel tomorrow or is there a risk that I'll stop breathing in the night? Doctor: Seek help. Contact to your doctor or go to ER for trouble to breath. If you go to ER they test you for covid 19. Your mother also can be  tested if symptomtic. In brief:   Not necessarily   You need to consult an endocrinologist for advice about diet, weight control, and medication for controlling A1c.    It is not feasible to provide more useful suggestions without talking to you, performing physical examination and may be some test.Wish you good health!  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [37, 46, "DISEASE"],
+          [120, 160, "SYMPTOMS"],
+          [304, 335, "DIAGNOSIS"],
+          [370, 379, "DISEASE"],
+          [469, 495, "DIAGNOSIS"],
+          [500, 517, "DIAGNOSIS"],
+          [519, 533, "DIAGNOSIS"],
+          [539, 570, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "  Patient: Hi Dr. If all I have is a dry cough, should I get tested for covid 19? No recent travel or contact with high risk individuals. I have been given permission to visit a relative in ICU during the lockdown, but don't want to make him sick. Doctor: Sounds risky. Using symptoms of fever, cough, or runny nose to screen for COVID-19 is not accurate because colds and flu have such symptoms. COVID testing is by nasal swab, but there's a shortage of test kits in this pandemic. Only local resources know local testing sites, times, restrictions. Even a negative test does not guarantee one does not have COVID-19. Safest for people to stay away from ICU patients. \r",
+      {
+        "entities": [
+          [37, 46, "SYMPTOMS"],
+          [72, 80, "DISEASE"],
+          [288, 293, "SYMPTOMS"],
+          [295, 300, "SYMPTOMS"],
+          [305, 315, "SYMPTOMS"],
+          [330, 338, "DISEASE"],
+          [397, 402, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: My 68 yrs old mom still waiting for corona virus test results. She’s had 101-102 fever for a week CT showed pneumonia she is at the hospital now . Does the fact that her fever is not getting better means that her pneumonia isn’t getting better? Doctor: In brief:   One sign   On treatment for bacterial pneumonia, fever will usually decline within 2 days.    A follow up chest image may be indicated. If you would like to upload her CT and clinical information to an inbox consultation with HT, we can provide an opinion. Sometimes there is slow resolution of a pneumonia, particularly with underlying medical conditions. The test results should be back soon.   Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [46, 58, "DISEASE"],
+          [83, 96, "SYMPTOMS"],
+          [118, 127, "DISEASE"],
+          [223, 232, "DISEASE"],
+          [303, 322, "DISEASE"],
+          [324, 329, "SYMPTOMS"],
+          [572, 581, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Do I need to take my 10 month old son for his measles vaccinations now that it is due or can it wait until the Coronavirus Pandemic has calmed down as I dont want to expose him unnecessarily in clinics or hospitals. Doctor: In brief:   Wait for now   Wait for now, keep talking on this platform. Stay safe.  Would you like to video or text chat with me?         \r",
+      {
+        "entities": [
+          [56, 63, "DISEASE"],
+          [121, 132, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: My 10 month old Baby Boy is scheduled to have his measles vaccination during the Lockdown. I want to know if we can wait to do his next vaccination until after this coronavirus has calmed down. I dont want to risk exposing him unnecessarily. Doctor: In brief:   Wait   My advice would be wait and don't risk exposure and spread right now.   Quarantine. Safe stay. We are here for you on this platform.  Would you like to video or text chat with me?          In brief:   Wait for now   Wait for now, keep talking on this platform. Stay safe.  Would you like to video or text chat with me?         \r",
+      {
+        "entities": [
+          [60, 67, "DISEASE"],
+          [175, 186, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: My 5 year old son woke Up not feeling well. I measured his temperature and mouth reading is 38.3 and armpit is 38.2. He says he’s head is sore and his neck is sore. Am scared it may be covid-19? Doctor: In brief:   Arrange testing   Stay home, provide fluids and ibuprofen after checking his temperature.   If he does not look well to you, please arrange a virtual or in person appointment with your pediatrician. Avoid contact with others, use good hand washing and consider testing for Influenza and Coronavirus.   Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [36, 53, "SYMPTOMS"],
+          [140, 152, "SYMPTOMS"],
+          [161, 174, "SYMPTOMS"],
+          [195, 203, "DISEASE"],
+          [243, 252, "DIAGNOSIS"],
+          [254, 268, "DIAGNOSIS"],
+          [273, 282, "MEDICINE"],
+          [424, 449, "DIAGNOSIS"],
+          [451, 472, "DIAGNOSIS"],
+          [477, 507, "DIAGNOSIS"],
+          [512, 524, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "  Patient: My 68 yr old mom is waiting for corona virus results. She’s been having fever 101-102 for a week. Was admitted to hospital and has pneumonia. How is it treated and should she stay at the hospital until her symptoms get better? She has HTN. Help! Doctor: COVID-19? It sounds like your mom is in good hands. If she has COVID, they will know how to treat it. If the pneumonia is beleived to be bacterial, they will treat with antibiotics. There is no proved effective treatment for coronavirus itself. Ask her doctors if she is a candidate for remdesivir -- not proved effective but sometimes available on a \"compassionate\" basis for severely ill patients. Good luck. \r",
+      {
+        "entities": [
+          [43, 55, "DISEASE"],
+          [83, 96, "SYMPTOMS"],
+          [142, 152, "DISEASE"],
+          [265, 273, "DISEASE"],
+          [328, 333, "DISEASE"],
+          [374, 383, "DISEASE"],
+          [423, 446, "MEDICINE"],
+          [490, 501, "DISEASE"],
+          [552, 562, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Should someone with a compromised immune system due to rheumatoid arthritis get the flu vaccine, especially during the COVID-19 crisis? Also, does the flu vaccine in South Africa use live or dead viruses? Doctor: In brief:   Flu vaccine   Any flu vaccine will cause your immune system to respond.  I advise,if your decision is to be vaccinated,to do it over a period of 6 weeks..I like a little bit on day 1 ,then more 2 weeks later and more two weeks later still.That way you get the full killed vaccine ,and your body develops an immune response with its ability still intact to fight Covid 19 if necessary.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [32, 57, "SYMPTOMS"],
+          [65, 85, "DISEASE"],
+          [94, 105, "MEDICINE"],
+          [129, 137, "DISEASE"],
+          [161, 172, "MEDICINE"],
+          [235, 246, "MEDICINE"],
+          [597, 605, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " Patient: My wife just found out that she sat next to someone on Tuesday who is being tested for the Coronavirus. Person is being tested as his wife was tested positive. Please advise next steps. Doctor: Stay home. Right now stay home, keep reporting here. THEre should be home to home testing coming soon. Mild corona virus is easy to treat at home. Treat everyone right now as if they have it, including everyone in your home. \r",
+      {
+        "entities": [
+          [101, 113, "DISEASE"],
+          [225, 234, "DIAGNOSIS"],
+          [307, 324, "DISEASE"],
+          [336, 350, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: My 8 year old and 6 year old woke up yesterday with a bad cough, I've been giving them cough medication, Allergex and they are wearing the face masks in the house. Please advise how can I get them tested for Covid19? Doctor: In brief:   No testing now   YOur children are going to be fine, there have not been any children that have required drastic measures.   MAke sure you stay 2 m away and wash hands and surfaces, disinfect surfaces constantly. Ask questions on here, we are here buy you need to stay home right now.   Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [64, 73, "SYMPTOMS"],
+          [97, 113, "MEDICINE"],
+          [115, 123, "MEDICINE"],
+          [149, 173, "MEDICINE"],
+          [218, 225, "DISEASE"],
+          [386, 399, "MEDICINE"],
+          [404, 427, "MEDICINE"],
+          [429, 447, "MEDICINE"],
+          [503, 520, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Hi have been having a mild fever since the 15 of March, with a strange sensation in the Throat, fever went away on the 17, but came back yesterday on the 25 March, mild, no short of breath just a slight headache, must I test for COVID19? Doctor: Perhaps not now. SEe how you go, going out right now is really a big risk. WE are here and can communicate during the lockdown period. THe government are making more tests available and safely so. Trust our government. Stay home right now. \r",
+      {
+        "entities": [
+          [32, 42, "SYMPTOMS"],
+          [73, 104, "SYMPTOMS"],
+          [206, 221, "SYMPTOMS"],
+          [239, 246, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "  I have a sore throat  and a bit of a cough. This morning i coughed up mucus with what look like blood. Is this a sign of covid 19?   Patient: I have a sore throat  and a bit of a cough. This morning i coughed up mucus with what look like blood. Is this a sign of covid 19? Doctor: In brief:   Source of bleeding   There are many causes of the small amount of blood in your sputum. You may have a nasal or upper airway source.    Strep infection, influenza are possible causes. COVID-19 typically is associated with fever, dry cough and/or shortness of breath.. Please contact your PCP for an evaluation, possible chest image and evaluation of the source of the bleeding.   Would you like to video or text chat with me?           \r",
+      {
+        "entities": [
+          [11, 22, "SYMPTOMS"],
+          [30, 45, "SYMPTOMS"],
+          [61, 104, "SYMPTOMS"],
+          [123, 131, "DISEASE"],
+          [153, 164, "SYMPTOMS"],
+          [172, 187, "SYMPTOMS"],
+          [203, 246, "SYMPTOMS"],
+          [265, 273, "DISEASE"],
+          [398, 427, "DISEASE"],
+          [431, 446, "DISEASE"],
+          [448, 457, "DISEASE"],
+          [479, 487, "DISEASE"],
+          [517, 522, "SYMPTOMS"],
+          [524, 533, "SYMPTOMS"],
+          [541, 562, "SYMPTOMS"],
+          [570, 586, "DIAGNOSIS"],
+          [606, 672, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "  Patient: Symptoms include irritation in the throat, dry cough, trouble breathing properly, headache. However not really a sign of a fever. Temperature is about 35 degrees. Should I get tested? Doctor: In brief:   Many causes.   Most cases of COVID-19 with symptoms are associated with fever, however milder cases do occur. Your shortness of breath and difficulty breathing may have a number of causes and should be evaluated.   Please call your PCP. Avoid dust, mold, smoke, animal dander, pollen. Your symptoms also are consistent with an allergic reaction.  Would you like to video or text chat with me?           \r",
+      {
+        "entities": [
+          [28, 52, "SYMPTOMS"],
+          [54, 63, "SYMPTOMS"],
+          [65, 91, "SYMPTOMS"],
+          [93, 102, "SYMPTOMS"],
+          [111, 140, "SYMPTOMS"],
+          [141, 173, "SYMPTOMS"],
+          [244, 252, "DISEASE"],
+          [287, 292, "SYMPTOMS"],
+          [330, 349, "SYMPTOMS"],
+          [354, 374, "SYMPTOMS"],
+          [452, 499, "DIAGNOSIS"],
+          [542, 560, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      " I am 63 living in Jhb and have had a tight chest and sore throat and wet cough for more than a week ?   Patient: I am 63 living in Jhb and have had a tight chest and sore throat and wet cough for more than a week ? Doctor: In brief:   Flu like sx.   Stay at home, monitor your temperature, drink fluids and rest.   If your cough is associated with fever and/or does not begin to improve, please see your PCP.  You may have bacterial bronchitis -avoid smoke, dust, mold, animal dander and pollen. Influenza and COVID are associated with fever. The cough with COVID is typically dry. If you have underlying lung disease, test for CoV/flu.  Would you like to video or text chat with me?           \r",
+      {
+        "entities": [
+          [38, 49, "SYMPTOMS"],
+          [54, 65, "SYMPTOMS"],
+          [70, 79, "SYMPTOMS"],
+          [145, 162, "SYMPTOMS"],
+          [167, 178, "SYMPTOMS"],
+          [183, 192, "SYMPTOMS"],
+          [236, 248, "DISEASE"],
+          [251, 263, "DIAGNOSIS"],
+          [265, 289, "DIAGNOSIS"],
+          [291, 313, "DIAGNOSIS"],
+          [316, 409, "DIAGNOSIS"],
+          [424, 444, "DISEASE"],
+          [445, 496, "DIAGNOSIS"],
+          [497, 506, "DISEASE"],
+          [511, 516, "DISEASE"],
+          [537, 543, "SYMPTOMS"],
+          [548, 553, "SYMPTOMS"],
+          [559, 564, "DIAGNOSIS"],
+          [606, 618, "DISEASE"],
+          [620, 637, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Chronic sore throat for 4 months. Not strep. No fever. Bloody green phlegm for a while. Sinus congestion and pressure sometimes. Bad breath in back of throat sometimes. Maybe post nasal drip. 2 wks. Of amoxicillin didn’t help. Is this mild COVID-19?   Patient: Chronic sore throat for 4 months. Not strep. No fever. Bloody green phlegm for a while. Sinus congestion and pressure sometimes. Bad breath in back of throat sometimes. Maybe post nasal drip. 2 wks. Of amoxicillin didn’t help. Is this mild COVID-19? Doctor: Bacterial likely. Use nasal saline rinses, a nasal steroid and discuss the use of Augmentin for 10 days with your PCP. It is more likely that you have a bacterial infection. An examination of your mouth or uploaded photo to a HT virtual consultation is important. Avoid smoke and if you are a smoker, please consider a biopsy of the area. .  \r",
+      {
+        "entities": [
+          [1, 20, "SYMPTOMS"],
+          [35, 45, "SYMPTOMS"],
+          [46, 55, "SYMPTOMS"],
+          [56, 75, "SYMPTOMS"],
+          [89, 105, "SYMPTOMS"],
+          [130, 158, "SYMPTOMS"],
+          [181, 192, "MEDICINE"],
+          [193, 199, "MED TIME"],
+          [203, 214, "MEDICINE"],
+          [236, 249, "DISEASE"],
+          [262, 281, "SYMPTOMS"],
+          [296, 306, "SYMPTOMS"],
+          [307, 316, "SYMPTOMS"],
+          [317, 336, "SYMPTOMS"],
+          [350, 379, "SYMPTOMS"],
+          [391, 430, "SYMPTOMS"],
+          [437, 447, "MEDICINE"],
+          [454, 460, "MED TIME"],
+          [464, 475, "MEDICINE"],
+          [497, 510, "DISEASE"],
+          [520, 537, "DIAGNOSIS"],
+          [542, 561, "MEDICINE"],
+          [565, 578, "MEDICINE"],
+          [602, 611, "MEDICINE"],
+          [616, 623, "MED TIME"],
+          [673, 693, "DIAGNOSIS"],
+          [784, 795, "DIAGNOSIS"],
+          [828, 845, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "  Patient: Been sneezing / stuffy nose and slight sore throat since returning from France, temperature is okay, not coughing or high fever symptoms, should I be alarmed? Doctor: Simple Cold but..... Sounds like simple Cold, But under the current health challenges of the world, it's best to be preemptive. And because Covid-19 is an infectious disease mostly transmitted through respiratory fluid droplets, One should first follow the WHO/CDC  current guidelines on hygiene. Then gargle with salt-water or vinegar-water after each meal/bedtime plus take Aleve or Ibuprofen for soreness/fever...   .  \r",
+      {
+        "entities": [
+          [11, 24, "SYMPTOMS"],
+          [27, 38, "SYMPTOMS"],
+          [43, 61, "SYMPTOMS"],
+          [91, 110, "SYMPTOMS"],
+          [112, 124, "SYMPTOMS"],
+          [178, 189, "DIAGNOSIS"],
+          [318, 329, "DISEASE"],
+          [359, 405, "SYMPTOMS"],
+          [480, 543, "MEDICINE"],
+          [554, 559, "MEDICINE"],
+          [563, 572, "MEDICINE"],
+          [577, 591, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "Hello doctor, I get a cough for the last few days, which is heavy during night times. No raise in temperature but feeling tired with no travel history. No contact with any Covid-19 persons. It has been four to five days and has drunk a lot of Benadryl and took Paracetamol too. Doctors have shut the OP so do not know what to do? Please help.Hello, I understand your concern. I just have a few more questions.Does your cough has phlegm? Any other symptoms like difficulty breathing? Any other medical condition such as asthma, hypertension? Are you a smoker? Alcoholic beverage drinker?I have phlegm but not a lot. A tiny amount comes out most of the time. I have no difficulty in breathing. No medical conditions and not a smoker nor a drinker.I would recommend you take n-acetylcysteine 200 mg powder dissolved in water three times a day. You may also nebulize using PNSS (saline nebulizer) three times a day. This will help the phlegm to come out. I would also recommend you take vitamin C 500 mg and zinc to boost your immune system. If symptoms persist, worsen or new onset of symptoms has been noted, further consult is advised.\r",
+      {
+        "entities": [
+          [22, 27, "SYMPTOMS"],
+          [86, 109, "SYMPTOMS"],
+          [114, 127, "SYMPTOMS"],
+          [172, 180, "DISEASE"],
+          [243, 251, "MEDICINE"],
+          [261, 272, "MEDICINE"],
+          [419, 435, "SYMPTOMS"],
+          [519, 525, "DIAGNOSIS"],
+          [527, 539, "DIAGNOSIS"],
+          [593, 599, "SYMPTOMS"],
+          [664, 691, "SYMPTOMS"],
+          [772, 795, "MEDICINE"],
+          [854, 892, "MEDICINE"],
+          [931, 937, "SYMPTOMS"],
+          [983, 999, "MEDICINE"],
+          [1004, 1008, "MEDICINE"],
+          [1012, 1037, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "Hello doctor, I am suffering from coughing, throat infection from last week. At that time fever did not persist and also did not felt any chest pain. Two days later, I consulted with a doctor. He prescribed Cavidur 625, Montek LC, Ambrolite syrup and Betaline gargle solution. Since then throat infection improved and frequent cough also coming out. Coughing also improved remarkably though not completely. From yesterday onwards fever is occuring (maximum 100-degree Celcius). I have not come in touch with any foreign returned person nor went outside. In our state, there is no incidence of Covid-19. Please suggest what to do?I can understand your concern.In my opinion, you should get done a chest x-ray and CBC (complete blood count). If both these are normal then no need to worry much. I hope this helps.Your total count is on the higher side of normal along with low hemoglobin. So start Azithromycin 500 mg 1-0-0, Tablet Dolo 650 1-0-1. Once your fever and cough subside, start an Iron tablet for low hemoglobin.\r",
+      { "entities": [] }
+    ],
+    [
+      "Last night I was getting chills, feeling more cold than usual and lightheaded and a lot of burping. Maybe like every 30 minutes or less or so feel more chills running down my body and chest feeling bit weird like I am starting having trouble breathing then goes back to normal and repeats, with weird feeling like chills down my left and right lungs or left and right upper chest. Also, my heart was pumping fast. Also, some minor coughs were there since seven days ago, still here. I have white mucus and have not gotten yellow yet.I took medicines yesterday but today I got severe cold and flu medicine with a pain reliever, the chills did not go away. Then today, I called the doctor on the phone and told him what happen last night and the same thing happened this morning too. I had minor coughs, feeling lightheaded, feel like maybe cannot breathe or something, and a lot of burping. I told him the burping issue was going on for at least two years, but somehow this time I am feeling lightheaded. He just gives Pepcid, a try maybe GERD. I ate that today still feeling chills now and still burping a lot.Right now, still some chills on arms, with breathing issue or something makes my chest feel weird and arm sometimes. So, should I be worried? I do not think I have a fever now but do not feel hot on the forehead? Was it GERD or flu, it is Coronavirus or something else? I hope it is not Coronavirus.I am 21 years old and weigh around 110-115 kg.Can you try taking Sudafed, Tylenol, and Zyrtec and try getting sleep for a few days? I am sure that will make you feel better.Avoid exposure to smoke dust and cold winds. Keep the AC to a minimum or use ceiling fan instead. Drink plenty of water and warm fluids. Avoid eating out, partying. Avoid unnecessary travel.\r",
+      {
+        "entities": [
+          [17, 31, "SYMPTOMS"],
+          [41, 50, "SYMPTOMS"],
+          [184, 197, "SYMPTOMS"],
+          [314, 380, "SYMPTOMS"],
+          [387, 413, "SYMPTOMS"],
+          [425, 437, "SYMPTOMS"],
+          [490, 501, "SYMPTOMS"],
+          [511, 534, "SYMPTOMS"],
+          [788, 800, "SYMPTOMS"],
+          [802, 821, "SYMPTOMS"],
+          [1018, 1024, "MEDICINE"],
+          [1038, 1043, "MEDICINE"],
+          [1338, 1341, "MEDICINE"],
+          [1349, 1360, "MEDICINE"],
+          [1397, 1410, "MEDICINE"],
+          [1474, 1481, "MEDICINE"],
+          [1483, 1490, "MEDICINE"],
+          [1496, 1502, "MEDICINE"],
+          [1575, 1626, "DIAGNOSIS"],
+          [1627, 1651, "DIAGNOSIS"],
+          [1659, 1670, "DIAGNOSIS"],
+          [1680, 1718, "DIAGNOSIS"],
+          [1719, 1735, "DIAGNOSIS"],
+          [1747, 1771, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "Hi, I am Chaitanya, 27 years old. I use to swim daily in morning. Does COVID-19 spreads through water ? What precautions should I take to avoid infection?First few cases were suspected to have spread from food. However human to human spread is mainly from air droplets.I would suggest you to refrain from swimming for sometime. Although the virus will get killed in swimming pool if it doesnot find host for more than few minutes.Other precautions include to avoid social gatherings, wash hands frequently with soap and water, cover face with mask, stay home during sickness, avoid travel.Dr Vaishalee\r",
+      {
+        "entities": [
+          [71, 79, "DISEASE"],
+          [144, 153, "DISEASE"],
+          [292, 327, "DIAGNOSIS"],
+          [459, 482, "DIAGNOSIS"],
+          [484, 505, "DIAGNOSIS"],
+          [527, 547, "DIAGNOSIS"],
+          [549, 574, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "COVID-19 symptoms. Nausea, vomiting, and/or diarrhea occur fairly frequently early in the infection, but are rarely if ever the only symptoms. If cough and fever don't develop within a day or two after vomiting or diarrhea, probably it isn't COVID-19.\r",
+      {
+        "entities": [
+          [0, 8, "DISEASE"],
+          [19, 25, "SYMPTOMS"],
+          [27, 35, "SYMPTOMS"],
+          [44, 52, "SYMPTOMS"],
+          [146, 151, "SYMPTOMS"],
+          [156, 161, "SYMPTOMS"],
+          [202, 210, "SYMPTOMS"],
+          [214, 222, "SYMPTOMS"],
+          [242, 250, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "Can I get a covid 19 test?Seek care right away if difficulty breathing, other severe symptoms.Seek testing if sick, PLUS known Covid-19 contact, or travel to high risk country, or been in facility treating people with Covid-19, or severe pneumonia of unknown cause. Call 0800 029 999 for test. If sick or possibly exposed (not both), stay home. Seek consultation if sick. If known exposure & not sick, self-isolate 14 days.\r",
+      {
+        "entities": [
+          [12, 20, "DISEASE"],
+          [127, 135, "DISEASE"],
+          [218, 226, "DISEASE"],
+          [238, 247, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "11 year old has a cough, runny nose, headache,earache, no fever. Is this COVID-19? The symptom pattern is not specific to one agent.It suggests a cold and ear infection. Kids have been among those least affected by Covid-19 . Only proper screening and testing could confirm or exclude this or any other agent. Parainfluenza, rhinovirus, or RSV would be more likely.\r",
+      {
+        "entities": [
+          [18, 23, "SYMPTOMS"],
+          [25, 35, "SYMPTOMS"],
+          [37, 45, "SYMPTOMS"],
+          [46, 53, "SYMPTOMS"],
+          [55, 64, "SYMPTOMS"],
+          [73, 81, "DISEASE"],
+          [146, 150, "SYMPTOMS"],
+          [155, 169, "SYMPTOMS"],
+          [215, 223, "DISEASE"],
+          [310, 323, "DISEASE"],
+          [325, 335, "DISEASE"],
+          [340, 343, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "I am getting headache at night. Been battling with a sore throat and post nasal drip. No fever. Cough only slightly at times. I went for laproscope and removal of my fallopian tubes on 2nd March. All this started after that. Must i test for covid 1o?In brief: UnlikelyTreat what you have currently symptomatically. Stock up now whilst not yet on lockdown. I don't feel that you qualify for a Covid test right now. Keep posting your questions.\r",
+      {
+        "entities": [
+          [13, 21, "SYMPTOMS"],
+          [53, 64, "SYMPTOMS"],
+          [69, 85, "SYMPTOMS"],
+          [86, 95, "SYMPTOMS"],
+          [96, 101, "SYMPTOMS"],
+          [137, 147, "DIAGNOSIS"],
+          [152, 181, "DIAGNOSIS"],
+          [315, 355, "DIAGNOSIS"],
+          [392, 397, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "I have mild asthma which is well controlled if I were to contract Covid 19 would I experience any difficulties as can’t seem to find much information on asthma patients who have had the Coronavirus many thanks ?COVID-19 and AsthmaGreat question. Yes asthma is a chronic lung disease which carries some increased risk with COVID-19.Good asthma control along with good handwashwng, social distancing avoiding unnecessary travel along with your young age should keep your risk of complications low. Smoking, hypertension, diabetes, obesity or compromised immune system are also risk factors to be considered.\r",
+      {
+        "entities": [
+          [7, 18, "DISEASE"],
+          [66, 74, "DISEASE"],
+          [186, 197, "DISEASE"],
+          [211, 219, "DISEASE"],
+          [250, 256, "DISEASE"],
+          [262, 282, "DISEASE"],
+          [322, 335, "DISEASE"],
+          [336, 342, "DISEASE"],
+          [343, 378, "DIAGNOSIS"],
+          [380, 406, "DIAGNOSIS"],
+          [505, 517, "DISEASE"],
+          [519, 527, "DISEASE"],
+          [529, 536, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "  Doctor: In brief: No Diarrhea does not rule out COVID. If you have traveled to endemic areas or met with people that traveled there, you should test if possible.  Patient: Can Covid-19 be transmitted sexually? Can any coronavirus be transmitted sexually? Doctor: In brief: Sort of If you are having sex with someone who has Covid-19 you are quite at risk of getting it. High likelihood if kissing and having intercourse but it may not be transmitted through intercourse but the closeness in an intimate situation like that with someone who is infected gives a high likelihood of transmission.   27   Patient: Have read COVID-19 news quoting some experts as saying that we will see more confirmed cases as more tests are performed, but the mortality rate should drop as that happens. Any sign of that yet? Doctor: In brief: COVID-19 mortality Don't confuse actual mortality rate with REPORTED rate. The actual rate probably will remain stable (and likely lower in the US than some other countries, because of sophisticated intensive medical care). But as testing expands and more people with mild symptoms (or no symptoms) are diagnosed, reported mortality will decline; likely happening now, but it may take weeks for data to be known.     Patient: I travelled to Austria on 25 Jan 2020 and returned on 31Jan 2020. My trip included a stopover in Munich. I currently do not show any symptoms listed for coronavirus. Should i get lab tested as a precaution and will this test be covered by the medical? Doctor: In brief: Hard to say The questions you pose are more appropriate to ask your local physicians and health plans. As a USA based site we have no access to or information about the changing local recommendations for world travel around the globe nor would we know what your plan covers. Find a local health contact & contact your health plan for guidance.    Patient: For students in dorms living with students from many countries, what extra additional precautions do they need to prevent catching novel coronavirus? Doctor: In brief: Standard precautions COVID-19 is now official name for the illness caused by the newly discovered coronavirus (COronaVirus Infectious Disease - 2019). So far it is extremely rare in the US (2/12/20). Until and unless COVID-19 becomes common no special precautions are necessary. In any dormitory or group living situation people with respiratory symptoms (colds, flu, etc.) should cover their coughs and wash hands frequently.    Patient: Can taking extra vitamin C every day help prevent you from catching the coronavirus or the flu? If so, how much vitamin C is recommended? Doctor: In brief: Vitamin C While getting enough vitamin C in your diet is highly recommended, it has no special ability to prevent coronavirus or flu virus. Best preventative measures for these are frequent handwashing and avoiding people with sneezing/coughing/cold symptoms and fevers.    31\r",
+      {
+        "entities": [
+          [23, 31, "DISEASE"],
+          [178, 186, "DISEASE"],
+          [220, 231, "DISEASE"],
+          [326, 334, "DISEASE"],
+          [621, 629, "DISEASE"],
+          [825, 833, "DISEASE"],
+          [1404, 1416, "DISEASE"],
+          [2014, 2025, "DISEASE"],
+          [2066, 2074, "DISEASE"],
+          [2262, 2270, "DISEASE"],
+          [2401, 2406, "SYMPTOMS"],
+          [2408, 2411, "SYMPTOMS"],
+          [2488, 2510, "DIAGNOSIS"],
+          [2556, 2567, "DISEASE"],
+          [2575, 2578, "DISEASE"],
+          [2596, 2605, "MEDICINE"],
+          [2640, 2649, "MEDICINE"],
+          [2671, 2680, "MEDICINE"],
+          [2754, 2765, "DISEASE"],
+          [2769, 2779, "DISEASE"],
+          [2780, 2841, "DIAGNOSIS"],
+          [2846, 2898, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "  Last tuesday I had a flu shot and a neumonia shot. I am 68 and male. I had a very sore arm and felt bad the next day in which I had blood drawn for a test. The results showed a high white cell blood count as well as high ANC and AMC. Could these high readings be because of the shots the day before? Doctor: Hello,  * The pneumonia shot per se is not responsible for high WBC count, but as you are telling there are soreness and bad feeling at the injection site over arm, there are all possibilities that you have cellulitis or possible abscess formation at the injection site; which will recruit neutrophils at the site and cause secondary rise in WBC count.  * Primary relief with ice application and secondary management with systemic antibiotics and anti-inflammatory medicines with your doc.  Hope I have answered your query. Let me know if I can assist you further.  Take care  Regards, Dr Bhagyesh V. Patel, General Surgeon   \r",
+      {
+        "entities": [
+          [23, 52, "MEDICINE"],
+          [84, 92, "SYMPTOMS"],
+          [223, 235, "DISEASE"],
+          [324, 333, "DISEASE"],
+          [418, 426, "SYMPTOMS"],
+          [431, 473, "SYMPTOMS"],
+          [508, 527, "DIAGNOSIS"],
+          [600, 611, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: My father recently passed over the weekend. His body was fighting an infection along with pneumonia for 1 week. During that time, he would urinate bloody urine into the foley. The doctors said that was completely normal. It was very dark red. Is that normal? Doctor: Hello,  * The pneumonia does not give rise to red urine called hematuria. * There can be possible causes for red blood cells in the urine as  - uncontrolled urinary tract infection - kidney damage via systemic sepsis - abnormal clotting factors or platelet function - side effects of drugs - dehydration related - secondary effects of diabetes - others  * Kindly share all reports if available with you for further discussion ahead and guide in details.  Hope I have answered your query. Let me know if I can assist you further.  Take care  Regards, Dr Bhagyesh V. Patel, General Surgeon   34\r",
+      {
+        "entities": [
+          [100, 109, "DISEASE"],
+          [149, 169, "SYMPTOMS"],
+          [291, 300, "DISEASE"],
+          [340, 350, "DISEASE"],
+          [421, 457, "DIAGNOSIS"],
+          [460, 493, "DIAGNOSIS"],
+          [496, 542, "DIAGNOSIS"],
+          [545, 566, "DIAGNOSIS"],
+          [569, 588, "DIAGNOSIS"],
+          [591, 620, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I have pneumonia and my doctor has me on strong antibodics and albut in my nebulizer. Yesterday after a treatment I spit up fresh blood and I have this second day also. I m on blood thinners and wonder if that may be my problem. I feel better in other ways. Doctor: HelloAs you explain the situation yes it might be that in pneumonia to have blood with the cough and especially if you take blood thinners do not worry.However of it last for several days than better to talk with your treating doctor for this for safety.RegardsDr.Jolanda    \r",
+      {
+        "entities": [
+          [17, 26, "DISEASE"],
+          [51, 68, "MEDICINE"],
+          [85, 95, "MEDICINE"],
+          [186, 200, "MEDICINE"],
+          [334, 343, "DISEASE"],
+          [400, 414, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Hi, my name is XXXX. My grandfather is suffering from pneumonia right now and refuses to go to the doctor because of the price needed to obtain a patented medicine. In Indonesia, it is not hard to find these kinds of doctors that don t want to help people in need. What medicine can you guys recommend for a home treatment? Doctor: Hello,  As you explain the situation, unfortunately, there is no home treatment for pneumonia. I strongly recommend you to go to the hospital as an emergency which is free mostly.  Hope I have answered your query. Let me know if I can assist you further.  Regards, Dr. Jnikolla, Pulmonologist  \r",
+      {
+        "entities": [
+          [64, 73, "DISEASE"],
+          [426, 436, "DISEASE"],
+          [465, 499, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I was diagnosed with pneumonia on june 30. I finished taking my antibiotics and cough pills. I still continue to cough sometimes gaging. Shortness of breath and wheezing, I have an inhaler, I am not coughing up anymore phlem. my doctor says to take Mucinex DM. I have finished a bottle. I also have taken robitussin cough medicine. She also sd cough cld last up to 4-6 weeks. Doctor: Hello,  These symptoms last for 3-4 weeks. So no need to worry if fever is not there.   Hope I have answered your query. Let me know if I can assist you further.  Take care  Regards, Dr Kaushal Bhavsar, Pulmonologist   \r",
+      {
+        "entities": [
+          [31, 40, "DISEASE"],
+          [74, 102, "MEDICINE"],
+          [123, 128, "SYMPTOMS"],
+          [139, 146, "SYMPTOMS"],
+          [147, 179, "SYMPTOMS"],
+          [191, 198, "MEDICINE"],
+          [205, 235, "SYMPTOMS"],
+          [259, 270, "MEDICINE"],
+          [315, 341, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      " Patient: Hi my husband has been diagnosed with pneumonia and given roxithromycin, he s had a heart transplant 4 yrs ago he is very tired hardly eating or drinking pretty larthargic to be honest should I be taking him to hospital we are now on day 3 on the antibiotics with no improvement what would you suggest? Doctor: Hi,  Yes, you should definitely take him to the hospital, seeing that he is especially vulnerable as a heart transplant recipient.   Hope I have answered your query. Let me know if I can assist you further.  Regards, Dr. Anders Mark Christensen, General Surgeon   \r",
+      {
+        "entities": [
+          [48, 57, "DISEASE"],
+          [68, 81, "MEDICINE"],
+          [138, 151, "SYMPTOMS"],
+          [171, 181, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      " I ve been diagnosed with pneumonia (I am 63) on Monday evening. My daughter (31) is exhibiting the same symptoms - went to her doctor and currently taking Z-Pak. I was prescribed azithromysin 500 mg for 5 days. I was concerned since we were experiencing the same symptoms. We spend time together but she is married and lives in town. I am married and my husband is not experiencing any symptoms. Totally confused. Is there a way to know if you have a viral or bacterial pneumonia. I have had all kinds of different blood work done, chest x-ray, - can they tell? How long is pneumonia contagious? She has 2 children and we re trying to figure out if it s okay to have someone else watch the kids. They are not sick at this time. Doctor: Hello,  Usually, he is contagious one week before treatment and until three days after treatment.  Hope I have answered your query. Let me know if I can assist you further.  Take care  Regards, Dr Jnikolla, Pulmonologist    \r",
+      {
+        "entities": [
+          [26, 35, "DISEASE"],
+          [156, 162, "MEDICINE"],
+          [180, 199, "MEDICINE"],
+          [204, 211, "MED TIME"],
+          [461, 481, "DISEASE"],
+          [516, 531, "DIAGNOSIS"],
+          [533, 544, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: 18 month old with chronic running nose And cough since August 2014 diagnosed with bacterial infections Took antibiotics did not get better. January 26th and chest x-ray found pneumonia. Took antibiotics did not get better with runny nose and coughing. 10 weeks later another chest x ray still found pneumonia. Has been taking clindamyacin For 11 days now does not seem to be getting better. And just now been prescribed proventil and Qvar. But if she is suffering from bacterial infection with those inhalers make it worse Doctor: Hello,  According to the history you prescribed he needs a chest CT to evaluate better the situation.  Hope I have answered your query. Let me know if I can assist you further.  Regards, Dr. Jnikolla, Pulmonologist   \r",
+      {
+        "entities": [
+          [28, 48, "SYMPTOMS"],
+          [92, 112, "DISEASE"],
+          [167, 178, "DIAGNOSIS"],
+          [185, 195, "DISEASE"],
+          [285, 296, "DIAGNOSIS"],
+          [309, 319, "DISEASE"],
+          [336, 348, "MEDICINE"],
+          [430, 439, "MEDICINE"],
+          [444, 449, "MEDICINE"],
+          [479, 498, "DISEASE"],
+          [510, 518, "DISEASE"],
+          [600, 608, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: Patient: My 19 year old son was diagnosed with pneumonia 5 months ago and was given antibiotics but with minimal results. Unfortunately he still suffers from the same symptoms but since he is in the military he refuses to go back to the doctor for fear of reprisal. His cough is still deep and his energy is low. Are there any long term repercussions for his lungs if he continues without treatment. Doctor: Hello,  As you explain the situation I strongly recommend you to send him to the doctor for a re-evaluation of the situation.  Hope I have answered your query. Let me know if I can assist you further.  Regards, Dr. Jnikolla, Pulmonologist   \r",
+      {
+        "entities": [
+          [57, 66, "DISEASE"],
+          [94, 105, "MEDICINE"],
+          [280, 299, "SYMPTOMS"],
+          [308, 322, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I was diagnosed with pneumonia 9 days ago. I had been sick a week before that. i get better, then it seems to come back. Now I have a runny nose (which i didn t have before) and I still have a tickle. 1 day good, 1 day bad, 1 day good. etc. Why the runny nose? what does the tickle signify? I am a singer. Got get well by Sat. this is tues. Doctor: Hello,  As you explain the history you don't have to worry you are in the phase of improvement just so correctly the treatment.  Hope I have answered your query. Let me know if I can assist you further.  Regards, Dr. Jnikolla, Pulmonologist   \r",
+      {
+        "entities": [
+          [31, 40, "DISEASE"],
+          [144, 154, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      " Patient: My son has been diagnosed with pneumonia, and started a five day treatment today. He is 11 years old and very lean almost under weight. He hasn t been eating well this week and coughing is pristant as of today. I believe he should not go on the ice. He does play hard. can I get your opinion? Doctor: Hello,  As you explain the history for giving you a correct opinion I should see his chest X-ray and blood tests.  Hope I have answered your query. Let me know if I can assist you further.  Take care  Regards, Dr Jnikolla, Pulmonologist  \r",
+      {
+        "entities": [
+          [41, 50, "DISEASE"],
+          [187, 207, "SYMPTOMS"],
+          [396, 407, "DIAGNOSIS"],
+          [412, 424, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: My mom had pneumonia, bronchitis, the flu and a fungal infection in her lungs. when I brought her to a local hospital she was intubated and had to be ambulance two hours away to a hospital that had a bed for patients on a ventilator. she was on a ventilator for three days and they discovered the fungal infection at the hospital. she was there for a total of 15 days. when I brought her home she was given a home health physical therapist, Home Health occupational therapist, home health nurse to help me take care of her she is still having quite an issue with breathing she can do only so much and gets out of breath, does anyone have any ideals or respiratory Rehabilitation or any help they can offer so that my mom can breathe easier to be able to walk and do what she did prior to this illness thank you so very much. Doctor: Hello and Welcome to ‘Ask A Doctor’ service. I have reviewed your query and here is my advice.  Spirometry exercise would be better for her and anti-fungal treatment should be done with other bronchodilator medication and supportive Rx.  Hope I have answered your query. Let me know if I can assist you further.  \r",
+      {
+        "entities": [
+          [21, 30, "DISEASE"],
+          [32, 42, "DISEASE"],
+          [44, 51, "DISEASE"],
+          [58, 88, "DISEASE"],
+          [307, 323, "DISEASE"],
+          [611, 629, "SYMPTOMS"],
+          [939, 958, "DIAGNOSIS"],
+          [987, 1008, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "  Patient: Hi I am 39 years old and returned from Germany 19 days ago. Yesterday I started getting a sore throat, runny nose. Today I have sinus pressure and a headache with a blocked nose, throat seems to be improving. Should I get tested. If so how? Doctor: Stay home. Stay at home, rest, drink fluids and monitor your temperature. Your symptoms are more consistent with a cold or sinus infection. Nasal saline and a decongestant may be helpful. If you develop COVID symptoms including dry cough, fever, and/or shortness of breath, testing is indicated. Report fever and shortness of breath to your PCP.  \r",
+      {
+        "entities": [
+          [101, 112, "SYMPTOMS"],
+          [114, 125, "SYMPTOMS"],
+          [139, 153, "SYMPTOMS"],
+          [160, 168, "SYMPTOMS"],
+          [176, 188, "SYMPTOMS"],
+          [260, 270, "DIAGNOSIS"],
+          [285, 289, "DIAGNOSIS"],
+          [291, 303, "DIAGNOSIS"],
+          [308, 333, "DIAGNOSIS"],
+          [375, 379, "DISEASE"],
+          [383, 399, "DISEASE"],
+          [400, 412, "MEDICINE"],
+          [419, 431, "MEDICINE"],
+          [463, 468, "DISEASE"],
+          [488, 497, "SYMPTOMS"],
+          [499, 532, "SYMPTOMS"],
+          [556, 605, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "  Hi I am 39 years old and have flu like symptoms as of yesterday. Runny nose, sore throat. No fever yet. I returned from Germany 19 days ago. Should I get tested for cov19?   Patient: Hi I am 39 years old and have flu like symptoms as of yesterday. Runny nose, sore throat. No fever yet. I returned from Germany 19 days ago. Should I get tested for cov19? Doctor: If you get fever yes. but from what we know it may bee a little late to get the chines virus after so many days. Monitor tempreture.  \r",
+      {
+        "entities": [
+          [32, 35, "SYMPTOMS"],
+          [67, 77, "SYMPTOMS"],
+          [79, 91, "SYMPTOMS"],
+          [92, 100, "SYMPTOMS"],
+          [167, 172, "DISEASE"],
+          [215, 232, "SYMPTOMS"],
+          [250, 260, "SYMPTOMS"],
+          [262, 274, "SYMPTOMS"],
+          [275, 283, "SYMPTOMS"],
+          [368, 386, "DIAGNOSIS"],
+          [445, 457, "DISEASE"],
+          [478, 496, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "  Patient: I have been feeling sick for a couple of days now and tried self medication but does not seem to help. I suffer from Polycystic Kidney disease, low blood pressure, Anemic, Endometriosis, Chronic sinus. Doctor: Screen sputum. You may have a bacterial illness such as bronchitis, pneumonia or a sinus infection.  Your PCP may collect sputum, screen for Strep/influenza. COVID-19 is usually associated with a dry cough, but secondary infection may occur. Please see your PCP.  \r",
+      {
+        "entities": [
+          [23, 35, "SYMPTOMS"],
+          [71, 86, "MEDICINE"],
+          [128, 153, "DISEASE"],
+          [155, 173, "DISEASE"],
+          [175, 181, "DISEASE"],
+          [183, 196, "DISEASE"],
+          [198, 212, "DISEASE"],
+          [221, 235, "DISEASE"],
+          [251, 320, "DIAGNOSIS"],
+          [327, 378, "DIAGNOSIS"],
+          [379, 387, "DISEASE"],
+          [417, 426, "SYMPTOMS"],
+          [432, 462, "DIAGNOSIS"],
+          [463, 482, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      " Patient: I have had a runny nose and have been coughing and have had on and off headaches. I went to the doctor the first time, he gave me an antibiotic and i got worse then I went back a and he gave me a different one but it seems I still have these symptoms? Doctor: In brief:   Likely a virus.   What you describe is likely caused by a virus, antibiotics  don't do anything against viruses.  Would you like to video or text chat with me?          \r",
+      {
+        "entities": [
+          [23, 33, "SYMPTOMS"],
+          [48, 56, "SYMPTOMS"],
+          [70, 91, "SYMPTOMS"],
+          [143, 153, "MEDICINE"],
+          [282, 297, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "  Patient: I am experiencing headache (severity: moderate) (time frame: gradual) (occurred: 1 - 3 hours) (side: front) (worsened by: psychological stress, being tired, menstruation, skipping meals) (unaffected by: bending forward, changes in sleep pattern, sneeze or Doctor: In brief:   Many possibilities.   Most people get a headache at some time, such as from colds, infections (usually viruses or sinusitis), lack of sleep, too much driving, long hours on the computer, stress at work, etc.  ..  A bad or severe headache, increasing headache, recurrent headache, weird headache, or one with other worrisome symptoms should be checked by one's primary care doctor or the ER. Can call one's Dr. first to chat.  Would you like to video or text chat with me?           \r",
+      {
+        "entities": [
+          [29, 37, "SYMPTOMS"],
+          [155, 166, "SYMPTOMS"],
+          [327, 335, "SYMPTOMS"],
+          [363, 368, "SYMPTOMS"],
+          [370, 380, "SYMPTOMS"],
+          [382, 410, "DISEASE"],
+          [500, 677, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "  Hi I am a health worker and a chronic asthmatic, is it easier for me to contract Corona? Will I survive it with my comorbidity? Should I ask for special leave during this time? I already feel my sinus blocked, very minor sore throat, seldom dry cough   Patient: Hi I am a health worker and a chronic asthmatic, is it easier for me to contract Corona? Will I survive it with my comorbidity? Should I ask for special leave during this time? I already feel my sinus blocked, very minor sore throat, seldom dry cough Doctor: In brief:   Check with PCP.   Data emerging from preliminary studies in France suggest a decades old medicine, chloroquine may be useful as a preventative drug.   It has been used to prevent malaria for decades & manufactures in the US have announced they are increasing production to meet an expected demand. Your status & what they are doing in your country should be answered by your doc.  Would you like to video or text chat with me?           \r",
+      {
+        "entities": [
+          [32, 49, "DISEASE"],
+          [83, 89, "DISEASE"],
+          [197, 210, "SYMPTOMS"],
+          [212, 234, "SYMPTOMS"],
+          [236, 252, "SYMPTOMS"],
+          [294, 311, "DISEASE"],
+          [345, 351, "DISEASE"],
+          [459, 472, "SYMPTOMS"],
+          [474, 496, "SYMPTOMS"],
+          [498, 514, "SYMPTOMS"],
+          [535, 550, "DIAGNOSIS"],
+          [634, 659, "MEDICINE"],
+          [714, 721, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "   Possible COVID-19 - mild symptoms - Next steps? Symptoms: - Initially: tight chest, stuffy nose - 10% difficulty breathing - Mildly feverish (hot and dry mouth, bit weak) for a few hours yesterday - Mostly fine this morning (5% breathing difficulty)   Patient: Possible COVID-19 - mild symptoms - Next steps? Symptoms: - Initially: tight chest, stuffy nose - 10% difficulty breathing - Mildly feverish (hot and dry mouth, bit weak) for a few hours yesterday - Mostly fine this morning (5% breathing difficulty) Doctor: May confirm with  \r",
+      {
+        "entities": [
+          [12, 20, "DISEASE"],
+          [74, 85, "SYMPTOMS"],
+          [87, 98, "SYMPTOMS"],
+          [105, 125, "SYMPTOMS"],
+          [128, 143, "SYMPTOMS"],
+          [273, 281, "DISEASE"],
+          [335, 346, "SYMPTOMS"],
+          [348, 359, "SYMPTOMS"],
+          [366, 386, "SYMPTOMS"],
+          [389, 404, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "  Throat a bit sore and want to get a good imune booster, especially in light of the virus. Please advise. Have not been in contact with Nyone with the virus.   Patient: Throat a bit sore and want to get a good imune booster, especially in light of the virus. Please advise. Have not been in contact with Nyone with the virus. Doctor: During this pandemic. Throat pain can be from a strep throat infection (antibiotics needed), a cold or influenza or other virus, or from some other cause such as allergies or irritants. Usually, a person sees the doctor (call first) if the sore throat is bothersome, recurrent, or doesn't go away quickly. COVID-19 infections tend to have cough, whereas strep throat usually lacks cough but has more throat pain. (3/21/20)  \r",
+      {
+        "entities": [
+          [2, 19, "SYMPTOMS"],
+          [43, 56, "MEDICINE"],
+          [170, 182, "SYMPTOMS"],
+          [211, 224, "MEDICINE"],
+          [357, 368, "SYMPTOMS"],
+          [383, 405, "DISEASE"],
+          [407, 425, "MEDICINE"],
+          [430, 434, "DISEASE"],
+          [438, 447, "DISEASE"],
+          [497, 520, "SYMPTOMS"],
+          [532, 567, "DIAGNOSIS"],
+          [575, 600, "SYMPTOMS"],
+          [641, 649, "DISEASE"],
+          [674, 679, "SYMPTOMS"],
+          [689, 701, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "     I have had a sore throat (glands enlarged in throat) for over a week and I have constant headache. Do I need COVID-19 test. If yes, how do a get someone to come to my house to test.   Patient: I have had a sore throat (glands enlarged in throat) for over a week and I have constant headache. Do I need COVID-19 test. If yes, how do a get someone to come to my house to test. Doctor: In brief:   Testing.   People are still getting other illnesses than COVID.    Given no cough or shortness of breath, other than watchful waiting COVID should pass in a week or two. Strep, influenza still possible. This testing can be done through your own provider. You can also get your own strep test at pharmacy or many can swab you there.   Would you like to video or text chat with me?           \r",
+      {
+        "entities": [
+          [18, 29, "SYMPTOMS"],
+          [31, 56, "SYMPTOMS"],
+          [85, 103, "SYMPTOMS"],
+          [114, 122, "DISEASE"],
+          [211, 222, "SYMPTOMS"],
+          [224, 249, "SYMPTOMS"],
+          [278, 296, "SYMPTOMS"],
+          [307, 315, "DISEASE"],
+          [457, 463, "DISEASE"],
+          [473, 504, "SYMPTOMS"],
+          [534, 539, "DISEASE"],
+          [570, 602, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "   Do I just go to a Dr to determine if it's a sinus infection or do I go get tested for COVID first? To not risk anyone in practice?   Patient: Do I just go to a Dr to determine if it's a sinus infection or do I go get tested for COVID first? To not risk anyone in practice? Doctor: In brief:   Phone triage.   Call your GP's office for instructions and identify local resources.   Your symptoms are suggesting sinusitis (other causes still possible) that is frequently viral and self limited. Local regulations should also be followed in such circumstances. Self quarantine will work for all in trying to prevent the spread. Hydration and rest will also work regardless of what the cause for your symptoms is.  Would you like to video or text chat with me?           \r",
+      {
+        "entities": [
+          [47, 62, "DISEASE"],
+          [89, 94, "DISEASE"],
+          [189, 204, "DISEASE"],
+          [231, 236, "DISEASE"],
+          [312, 350, "DIAGNOSIS"],
+          [412, 421, "DISEASE"],
+          [560, 575, "DIAGNOSIS"],
+          [627, 636, "MEDICINE"],
+          [641, 645, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      "  I have a dry cough and sore throat- it's been a week now and the cough seems to be getting worse- no runny nose or fever, sometimes a headache, no shortness of breath...should I get tested for covid19?   Patient: I have a dry cough and sore throat- it's been a week now and the cough seems to be getting worse- no runny nose or fever, sometimes a headache, no shortness of breath...should I get tested for covid19? Doctor: In brief:   COVID   Good guidelines can be found at cdc.  gov/coronavirus/2019.  You would be considered low risk. Symptoms last up to two weeks. High probability many will get the disease and testing leads to no change in action at this time.  No obvious therapy (however some encouraging possibilites) and for most people the virus runs its course without incidence. Stay put and talk to your provider.   Would you like to video or text chat with me?           \r",
+      {
+        "entities": [
+          [11, 20, "SYMPTOMS"],
+          [25, 37, "SYMPTOMS"],
+          [67, 72, "SYMPTOMS"],
+          [100, 122, "SYMPTOMS"],
+          [124, 144, "SYMPTOMS"],
+          [146, 168, "SYMPTOMS"],
+          [195, 202, "DISEASE"],
+          [224, 233, "SYMPTOMS"],
+          [238, 250, "SYMPTOMS"],
+          [313, 335, "SYMPTOMS"],
+          [337, 357, "SYMPTOMS"],
+          [359, 381, "SYMPTOMS"],
+          [408, 415, "DISEASE"],
+          [519, 539, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "   If you've been infected by SARS-CoV-2, develop Covid-19 symptoms and recover, can you: 1) develop immunity to Covid-19 2) infect others after 14 days post-symptom onset & recovery 3) get re-infected later by SARS-CoV-2 despite developing immunity?   Patient: If you've been infected by SARS-CoV-2, develop Covid-19 symptoms and recover, can you: 1) develop immunity to Covid-19 2) infect others after 14 days post-symptom onset & recovery 3) get re-infected later by SARS-CoV-2 despite developing immunity? Doctor: Yes, Maybe, Maybe. We presume one is immune to a respiratory virus for a while after getting the infection (that's the way it is with other viruses). A few people have trouble with their antibodies and don't have much immunity. Shedding of viruses sometimes is longer than 14 days. In life, there will always be some people who get reinfected, for whatever reason. Usually one is immune after the infection. (3/21/20)  \r",
+      {
+        "entities": [
+          [30, 40, "DISEASE"],
+          [50, 58, "DISEASE"],
+          [113, 121, "DISEASE"],
+          [211, 221, "DISEASE"],
+          [289, 299, "DISEASE"],
+          [309, 317, "DISEASE"],
+          [372, 380, "DISEASE"],
+          [470, 480, "DISEASE"],
+          [567, 584, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "   If I get coronavirus, are there ways to avoid getting other illnesses as well, like pneumonia?   Patient: If I get coronavirus, are there ways to avoid getting other illnesses as well, like pneumonia? Doctor: In brief:   Coronavirus,   COVID-19 has high affinity to the lung, causing viral pneumonia.   Fortunately, most people get only mild respiratory symptoms. Those who have high risks (age over 65, chronic diseases) tend to get pneumonia and complications. The most important way to prevent the complications is not to get infection, practice common sense of prevention. If you catch the infection, start early treatment.  Would you like to video or text chat with me?            \r",
+      {
+        "entities": [
+          [12, 23, "DISEASE"],
+          [87, 96, "DISEASE"],
+          [118, 129, "DISEASE"],
+          [193, 202, "DISEASE"],
+          [224, 235, "DISEASE"],
+          [239, 303, "DIAGNOSIS"],
+          [340, 366, "SYMPTOMS"],
+          [437, 446, "DIAGNOSIS"],
+          [543, 579, "DIAGNOSIS"],
+          [580, 630, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "  I was on a plane on March 8th have been home ever since self quarantine myself I have had headaches and runny throat I have 2 days left of my self quarantine should I be having worse symptoms by now ?   Patient: I was on a plane on March 8th have been home ever since self quarantine myself I have had headaches and runny throat I have 2 days left of my self quarantine should I be having worse symptoms by now ? Doctor: In brief:   COVID   These are HealthTap guidelines:https://www.  healthtap.com/blog/covid-19-care-guidelines/virtual-care-guidelines-for-covid-19?utm_campaign=COVID%20OUTREACH&utm_medium=email&_hsmi=84951814&_hsenc=p2ANqtz-_jlHAfqZrXrCncGR4mJ57eQcomM2TItlnybAQii_sH-f4IyZjpz7-eIVc1oKN2_qDpZnO3&utm_content=84951814&utm_source=hs_emailI agree your symptoms should be improving.  Contact provider.   Would you like to video or text chat with me?             \r",
+      {
+        "entities": [
+          [58, 73, "MEDICINE"],
+          [92, 101, "SYMPTOMS"],
+          [106, 118, "SYMPTOMS"],
+          [270, 285, "MEDICINE"],
+          [304, 313, "SYMPTOMS"],
+          [318, 330, "SYMPTOMS"],
+          [356, 371, "MEDICINE"]
+        ]
+      }
+    ],
+    [
+      "  My son has a fever, I am concerned due to the coronavirus ?   Patient: My son has a fever, I am concerned due to the coronavirus ? Doctor: In brief:   Covid-19 unlikely.   The usual infections in your area of Kwa Zulu Natal are more likely to be the cause of his fever. If he is exposed to someone who is sick with Covid-19, then you need to be concerned.   Meanwhile, treat him as you would have treated him 2 months ago.  If he has shortness of breath or any form of difficulty breathing, get him to a doctor ASAP  Would you like to video or text chat with me?            \r",
+      {
+        "entities": [
+          [15, 21, "SYMPTOMS"],
+          [48, 59, "DISEASE"],
+          [86, 91, "SYMPTOMS"],
+          [119, 130, "DISEASE"],
+          [153, 161, "DISEASE"],
+          [265, 271, "SYMPTOMS"],
+          [317, 325, "DISEASE"],
+          [426, 512, "DIAGNOSIS"]
+        ]
+      }
+    ],
+    [
+      "Can coronavirus symptoms be mild for some people versus severe? For example, could it just involve being very fatigued, low grade fever for a few days and not the extreme symptoms? Or is it always a full blown cold and struggle to breathe?\r",
+      {
+        "entities": [
+          [4, 15, "DISEASE"],
+          [105, 118, "SYMPTOMS"],
+          [120, 135, "SYMPTOMS"],
+          [199, 214, "SYMPTOMS"],
+          [219, 238, "SYMPTOMS"]
+        ]
+      }
+    ],
+    ["\r", { "entities": [] }],
+    ["\r", { "entities": [] }],
+    ["", { "entities": [] }]
+  ]
+}
