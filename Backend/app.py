@@ -31,7 +31,7 @@ pathlib.PosixPath = pathlib.WindowsPath
 
 app = FastAPI()
 
-SECRET_KEY = "32e5013708289e5fa1c56ae3a71c016bf485d50a9b2277c1dca9a4583f9f2808"
+SECRET_KEY = "jwt token"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
@@ -206,7 +206,7 @@ async def add_new_patient(
     #     # Use Google Speech Recognition to transcribe the audio
     #     text = r.recognize_google(audio_data, language='en-US')
     #     print("Transcription:", text)
-    aai.settings.api_key = "5c1922a931d845e0acf5f246cfc0b192"
+    aai.settings.api_key = "YOUR API KEY"
     transcriber = aai.Transcriber()
     
     transcript = transcriber.transcribe("../output.wav")
