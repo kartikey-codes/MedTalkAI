@@ -2,6 +2,8 @@
 
 MedTalk AI is an SAAS app that utilizes Artificial intelligence as well as Machine learning Algorithms to streamline the process of documentation for patients in the healthcare industry automatically. 
 
+## Try Now: medtalkai.kartikeybhatnagar.tech
+
 ## Key Features:
 
 - **Automated Documentation**: Our advanced model trained on custom Indian Dataset extracts key patient details and medical insights from audio recordings of patient conversations with lightning speed.
